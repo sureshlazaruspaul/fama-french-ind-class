@@ -1,0 +1,2557 @@
+class,sic_start,sic_end,desc,details,ind_def
+1,100,999,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,2000,2399,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,2700,2749,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,2770,2799,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3100,3199,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3940,3989,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,2500,2519,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,2590,2599,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3630,3659,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3710,3711,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3714,3714,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3716,3716,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3750,3751,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3792,3792,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3900,3939,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,3990,3999,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,5000,5999,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,7200,7299,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+1,7600,7699,Cnsmr,"Consumer Durables, Nondurables, Wholesale, Retail, and Some Services (Laundries, Repair Shops)",5
+2,2520,2589,Manuf,"Manufacturing, Energy, and Utilities",5
+2,2600,2699,Manuf,"Manufacturing, Energy, and Utilities",5
+2,2750,2769,Manuf,"Manufacturing, Energy, and Utilities",5
+2,2800,2829,Manuf,"Manufacturing, Energy, and Utilities",5
+2,2840,2899,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3000,3099,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3200,3569,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3580,3621,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3623,3629,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3700,3709,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3712,3713,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3715,3715,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3717,3749,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3752,3791,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3793,3799,Manuf,"Manufacturing, Energy, and Utilities",5
+2,3860,3899,Manuf,"Manufacturing, Energy, and Utilities",5
+2,1200,1399,Manuf,"Manufacturing, Energy, and Utilities",5
+2,2900,2999,Manuf,"Manufacturing, Energy, and Utilities",5
+2,4900,4949,Manuf,"Manufacturing, Energy, and Utilities",5
+3,3570,3579,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,3622,3622,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,3660,3692,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,3694,3699,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,3810,3839,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7370,7372,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7373,7373,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7374,7374,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7375,7375,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7376,7376,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7377,7377,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7378,7378,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7379,7379,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,7391,7391,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,8730,8734,HiTec,"Business Equipment, Telephone and Television Transmission",5
+3,4800,4899,HiTec,"Business Equipment, Telephone and Television Transmission",5
+4,2830,2839,Hlth,"Healthcare, Medical Equipment, and Drugs",5
+4,3693,3693,Hlth,"Healthcare, Medical Equipment, and Drugs",5
+4,3840,3859,Hlth,"Healthcare, Medical Equipment, and Drugs",5
+4,8000,8099,Hlth,"Healthcare, Medical Equipment, and Drugs",5
+5,-9999,-9999,Other,"Other -- Mines, Constr, BldMt, Trans, Hotels, Bus Serv, Entertainment, Finance",5
+1,100,999,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",10
+1,2000,2399,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",10
+1,2700,2749,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",10
+1,2770,2799,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",10
+1,3100,3199,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",10
+1,3940,3989,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",10
+2,2500,2519,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,2590,2599,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,3630,3659,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,3710,3711,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,3714,3714,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,3716,3716,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,3750,3751,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,3792,3792,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,3900,3939,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+2,3990,3999,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",10
+3,2520,2589,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,2600,2699,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,2750,2769,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,2800,2829,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,2840,2899,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3000,3099,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3200,3569,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3580,3621,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3623,3629,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3700,3709,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3712,3713,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3715,3715,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3717,3749,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3752,3791,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3793,3799,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+3,3860,3899,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Chemicals, Off Furn, Paper, Com Printing",10
+4,1200,1399,Enrgy,"Oil, Gas, and Coal Extraction and Products",10
+4,2900,2999,Enrgy,"Oil, Gas, and Coal Extraction and Products",10
+5,3570,3579,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,3622,3622,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,3660,3692,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,3694,3699,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,3810,3839,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7370,7372,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7373,7373,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7374,7374,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7375,7375,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7376,7376,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7377,7377,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7378,7378,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7379,7379,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,7391,7391,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+5,8730,8734,HiTec,"Business Equipment -- Computers, Software, and Electronic Equipment",10
+6,4800,4899,Telcm,Telephone and Television Transmission,10
+7,5000,5999,Shops,"Wholesale, Retail, and Some Services (Laundries, Repair Shops)",10
+7,7200,7299,Shops,"Wholesale, Retail, and Some Services (Laundries, Repair Shops)",10
+7,7600,7699,Shops,"Wholesale, Retail, and Some Services (Laundries, Repair Shops)",10
+8,2830,2839,Hlth,"Healthcare, Medical Equipment, and Drugs",10
+8,3693,3693,Hlth,"Healthcare, Medical Equipment, and Drugs",10
+8,3840,3859,Hlth,"Healthcare, Medical Equipment, and Drugs",10
+8,8000,8099,Hlth,"Healthcare, Medical Equipment, and Drugs",10
+9,4900,4949,Utils,Utilities,10
+10,-9999,-9999,Other,"Other -- Mines, Constr, BldMt, Trans, Hotels, Bus Serv, Entertainment, Finance",10
+1,100,999,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",12
+1,2000,2399,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",12
+1,2700,2749,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",12
+1,2770,2799,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",12
+1,3100,3199,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",12
+1,3940,3989,NoDur,"Consumer Nondurables -- Food, Tobacco, Textiles, Apparel, Leather, Toys",12
+2,2500,2519,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,2590,2599,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,3630,3659,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,3710,3711,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,3714,3714,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,3716,3716,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,3750,3751,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,3792,3792,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,3900,3939,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+2,3990,3999,Durbl,"Consumer Durables -- Cars, TVs, Furniture, Household Appliances",12
+3,2520,2589,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,2600,2699,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,2750,2769,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3000,3099,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3200,3569,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3580,3629,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3700,3709,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3712,3713,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3715,3715,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3717,3749,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3752,3791,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3793,3799,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3830,3839,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+3,3860,3899,Manuf,"Manufacturing -- Machinery, Trucks, Planes, Off Furn, Paper, Com Printing",12
+4,1200,1399,Enrgy,"Oil, Gas, and Coal Extraction and Products",12
+4,2900,2999,Enrgy,"Oil, Gas, and Coal Extraction and Products",12
+5,2800,2829,Chems,Chemicals and Allied Products,12
+5,2840,2899,Chems,Chemicals and Allied Products,12
+6,3570,3579,BusEq,"Business Equipment -- Computers, Software, and Electronic Equipment",12
+6,3660,3692,BusEq,"Business Equipment -- Computers, Software, and Electronic Equipment",12
+6,3694,3699,BusEq,"Business Equipment -- Computers, Software, and Electronic Equipment",12
+6,3810,3829,BusEq,"Business Equipment -- Computers, Software, and Electronic Equipment",12
+6,7370,7379,BusEq,"Business Equipment -- Computers, Software, and Electronic Equipment",12
+7,4800,4899,Telcm,Telephone and Television Transmission,12
+8,4900,4949,Utils,Utilities,12
+9,5000,5999,Shops,"Wholesale, Retail, and Some Services (Laundries, Repair Shops)",12
+9,7200,7299,Shops,"Wholesale, Retail, and Some Services (Laundries, Repair Shops)",12
+9,7600,7699,Shops,"Wholesale, Retail, and Some Services (Laundries, Repair Shops)",12
+10,2830,2839,Hlth,"Healthcare, Medical Equipment, and Drugs",12
+10,3693,3693,Hlth,"Healthcare, Medical Equipment, and Drugs",12
+10,3840,3859,Hlth,"Healthcare, Medical Equipment, and Drugs",12
+10,8000,8099,Hlth,"Healthcare, Medical Equipment, and Drugs",12
+11,6000,6999,Money,Finance,12
+12,-9999,-9999,Other,"Other -- Mines, Constr, BldMt, Trans, Hotels, Bus Serv, Entertainment",12
+1,100,199,Food,Food,17
+1,200,299,Food,Food,17
+1,700,799,Food,Food,17
+1,900,999,Food,Food,17
+1,2000,2009,Food,Food,17
+1,2010,2019,Food,Food,17
+1,2020,2029,Food,Food,17
+1,2030,2039,Food,Food,17
+1,2040,2046,Food,Food,17
+1,2047,2047,Food,Food,17
+1,2048,2048,Food,Food,17
+1,2050,2059,Food,Food,17
+1,2060,2063,Food,Food,17
+1,2064,2068,Food,Food,17
+1,2070,2079,Food,Food,17
+1,2080,2080,Food,Food,17
+1,2082,2082,Food,Food,17
+1,2083,2083,Food,Food,17
+1,2084,2084,Food,Food,17
+1,2085,2085,Food,Food,17
+1,2086,2086,Food,Food,17
+1,2087,2087,Food,Food,17
+1,2090,2092,Food,Food,17
+1,2095,2095,Food,Food,17
+1,2096,2096,Food,Food,17
+1,2097,2097,Food,Food,17
+1,2098,2099,Food,Food,17
+1,5140,5149,Food,Food,17
+1,5150,5159,Food,Food,17
+1,5180,5182,Food,Food,17
+1,5191,5191,Food,Food,17
+2,1000,1009,Mines,Mining and Minerals,17
+2,1010,1019,Mines,Mining and Minerals,17
+2,1020,1029,Mines,Mining and Minerals,17
+2,1030,1039,Mines,Mining and Minerals,17
+2,1040,1049,Mines,Mining and Minerals,17
+2,1060,1069,Mines,Mining and Minerals,17
+2,1080,1089,Mines,Mining and Minerals,17
+2,1090,1099,Mines,Mining and Minerals,17
+2,1200,1299,Mines,Mining and Minerals,17
+2,1400,1499,Mines,Mining and Minerals,17
+2,5050,5052,Mines,Mining and Minerals,17
+3,1300,1300,Oil,Oil and Petroleum Products,17
+3,1310,1319,Oil,Oil and Petroleum Products,17
+3,1320,1329,Oil,Oil and Petroleum Products,17
+3,1380,1380,Oil,Oil and Petroleum Products,17
+3,1381,1381,Oil,Oil and Petroleum Products,17
+3,1382,1382,Oil,Oil and Petroleum Products,17
+3,1389,1389,Oil,Oil and Petroleum Products,17
+3,2900,2912,Oil,Oil and Petroleum Products,17
+3,5170,5172,Oil,Oil and Petroleum Products,17
+4,2200,2269,Clths,"Textiles, Apparel & Footwear",17
+4,2270,2279,Clths,"Textiles, Apparel & Footwear",17
+4,2280,2284,Clths,"Textiles, Apparel & Footwear",17
+4,2290,2295,Clths,"Textiles, Apparel & Footwear",17
+4,2296,2296,Clths,"Textiles, Apparel & Footwear",17
+4,2297,2297,Clths,"Textiles, Apparel & Footwear",17
+4,2298,2298,Clths,"Textiles, Apparel & Footwear",17
+4,2299,2299,Clths,"Textiles, Apparel & Footwear",17
+4,2300,2390,Clths,"Textiles, Apparel & Footwear",17
+4,2391,2392,Clths,"Textiles, Apparel & Footwear",17
+4,2393,2395,Clths,"Textiles, Apparel & Footwear",17
+4,2396,2396,Clths,"Textiles, Apparel & Footwear",17
+4,2397,2399,Clths,"Textiles, Apparel & Footwear",17
+4,3020,3021,Clths,"Textiles, Apparel & Footwear",17
+4,3100,3111,Clths,"Textiles, Apparel & Footwear",17
+4,3130,3131,Clths,"Textiles, Apparel & Footwear",17
+4,3140,3149,Clths,"Textiles, Apparel & Footwear",17
+4,3150,3151,Clths,"Textiles, Apparel & Footwear",17
+4,3963,3965,Clths,"Textiles, Apparel & Footwear",17
+4,5130,5139,Clths,"Textiles, Apparel & Footwear",17
+5,2510,2519,Durbl,Consumer Durables,17
+5,2590,2599,Durbl,Consumer Durables,17
+5,3060,3069,Durbl,Consumer Durables,17
+5,3070,3079,Durbl,Consumer Durables,17
+5,3080,3089,Durbl,Consumer Durables,17
+5,3090,3099,Durbl,Consumer Durables,17
+5,3630,3639,Durbl,Consumer Durables,17
+5,3650,3651,Durbl,Consumer Durables,17
+5,3652,3652,Durbl,Consumer Durables,17
+5,3860,3861,Durbl,Consumer Durables,17
+5,3870,3873,Durbl,Consumer Durables,17
+5,3910,3911,Durbl,Consumer Durables,17
+5,3914,3914,Durbl,Consumer Durables,17
+5,3915,3915,Durbl,Consumer Durables,17
+5,3930,3931,Durbl,Consumer Durables,17
+5,3940,3949,Durbl,Consumer Durables,17
+5,3960,3962,Durbl,Consumer Durables,17
+5,5020,5023,Durbl,Consumer Durables,17
+5,5064,5064,Durbl,Consumer Durables,17
+5,5094,5094,Durbl,Consumer Durables,17
+5,5099,5099,Durbl,Consumer Durables,17
+6,2800,2809,Chems,Chemicals,17
+6,2810,2819,Chems,Chemicals,17
+6,2820,2829,Chems,Chemicals,17
+6,2860,2869,Chems,Chemicals,17
+6,2870,2879,Chems,Chemicals,17
+6,2890,2899,Chems,Chemicals,17
+6,5160,5169,Chems,Chemicals,17
+7,2100,2199,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+7,2830,2830,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+7,2831,2831,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+7,2833,2833,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+7,2834,2834,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+7,2840,2843,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+7,2844,2844,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+7,5120,5122,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+7,5194,5194,Cnsum,"Drugs, Soap, Perfumes, Tobacco",17
+8,800,899,Cnstr,Construction and Construction Materials,17
+8,1500,1511,Cnstr,Construction and Construction Materials,17
+8,1520,1529,Cnstr,Construction and Construction Materials,17
+8,1530,1539,Cnstr,Construction and Construction Materials,17
+8,1540,1549,Cnstr,Construction and Construction Materials,17
+8,1600,1699,Cnstr,Construction and Construction Materials,17
+8,1700,1799,Cnstr,Construction and Construction Materials,17
+8,2400,2439,Cnstr,Construction and Construction Materials,17
+8,2440,2449,Cnstr,Construction and Construction Materials,17
+8,2450,2459,Cnstr,Construction and Construction Materials,17
+8,2490,2499,Cnstr,Construction and Construction Materials,17
+8,2850,2859,Cnstr,Construction and Construction Materials,17
+8,2950,2952,Cnstr,Construction and Construction Materials,17
+8,3200,3200,Cnstr,Construction and Construction Materials,17
+8,3210,3211,Cnstr,Construction and Construction Materials,17
+8,3240,3241,Cnstr,Construction and Construction Materials,17
+8,3250,3259,Cnstr,Construction and Construction Materials,17
+8,3261,3261,Cnstr,Construction and Construction Materials,17
+8,3264,3264,Cnstr,Construction and Construction Materials,17
+8,3270,3275,Cnstr,Construction and Construction Materials,17
+8,3280,3281,Cnstr,Construction and Construction Materials,17
+8,3290,3293,Cnstr,Construction and Construction Materials,17
+8,3420,3429,Cnstr,Construction and Construction Materials,17
+8,3430,3433,Cnstr,Construction and Construction Materials,17
+8,3440,3441,Cnstr,Construction and Construction Materials,17
+8,3442,3442,Cnstr,Construction and Construction Materials,17
+8,3446,3446,Cnstr,Construction and Construction Materials,17
+8,3448,3448,Cnstr,Construction and Construction Materials,17
+8,3449,3449,Cnstr,Construction and Construction Materials,17
+8,3450,3451,Cnstr,Construction and Construction Materials,17
+8,3452,3452,Cnstr,Construction and Construction Materials,17
+8,5030,5039,Cnstr,Construction and Construction Materials,17
+8,5070,5078,Cnstr,Construction and Construction Materials,17
+8,5198,5198,Cnstr,Construction and Construction Materials,17
+8,5210,5211,Cnstr,Construction and Construction Materials,17
+8,5230,5231,Cnstr,Construction and Construction Materials,17
+8,5250,5251,Cnstr,Construction and Construction Materials,17
+9,3300,3300,Steel,Steel Works Etc,17
+9,3310,3317,Steel,Steel Works Etc,17
+9,3320,3325,Steel,Steel Works Etc,17
+9,3330,3339,Steel,Steel Works Etc,17
+9,3340,3341,Steel,Steel Works Etc,17
+9,3350,3357,Steel,Steel Works Etc,17
+9,3360,3369,Steel,Steel Works Etc,17
+9,3390,3399,Steel,Steel Works Etc,17
+10,3410,3412,FabPr,Fabricated Products,17
+10,3443,3443,FabPr,Fabricated Products,17
+10,3444,3444,FabPr,Fabricated Products,17
+10,3460,3469,FabPr,Fabricated Products,17
+10,3470,3479,FabPr,Fabricated Products,17
+10,3480,3489,FabPr,Fabricated Products,17
+10,3490,3499,FabPr,Fabricated Products,17
+11,3510,3519,Machn,Machinery and Business Equipment,17
+11,3520,3529,Machn,Machinery and Business Equipment,17
+11,3530,3530,Machn,Machinery and Business Equipment,17
+11,3531,3531,Machn,Machinery and Business Equipment,17
+11,3532,3532,Machn,Machinery and Business Equipment,17
+11,3533,3533,Machn,Machinery and Business Equipment,17
+11,3534,3534,Machn,Machinery and Business Equipment,17
+11,3535,3535,Machn,Machinery and Business Equipment,17
+11,3536,3536,Machn,Machinery and Business Equipment,17
+11,3540,3549,Machn,Machinery and Business Equipment,17
+11,3550,3559,Machn,Machinery and Business Equipment,17
+11,3560,3569,Machn,Machinery and Business Equipment,17
+11,3570,3579,Machn,Machinery and Business Equipment,17
+11,3580,3580,Machn,Machinery and Business Equipment,17
+11,3581,3581,Machn,Machinery and Business Equipment,17
+11,3582,3582,Machn,Machinery and Business Equipment,17
+11,3585,3585,Machn,Machinery and Business Equipment,17
+11,3586,3586,Machn,Machinery and Business Equipment,17
+11,3589,3589,Machn,Machinery and Business Equipment,17
+11,3590,3599,Machn,Machinery and Business Equipment,17
+11,3600,3600,Machn,Machinery and Business Equipment,17
+11,3610,3613,Machn,Machinery and Business Equipment,17
+11,3620,3621,Machn,Machinery and Business Equipment,17
+11,3622,3622,Machn,Machinery and Business Equipment,17
+11,3623,3629,Machn,Machinery and Business Equipment,17
+11,3670,3679,Machn,Machinery and Business Equipment,17
+11,3680,3680,Machn,Machinery and Business Equipment,17
+11,3681,3681,Machn,Machinery and Business Equipment,17
+11,3682,3682,Machn,Machinery and Business Equipment,17
+11,3683,3683,Machn,Machinery and Business Equipment,17
+11,3684,3684,Machn,Machinery and Business Equipment,17
+11,3685,3685,Machn,Machinery and Business Equipment,17
+11,3686,3686,Machn,Machinery and Business Equipment,17
+11,3687,3687,Machn,Machinery and Business Equipment,17
+11,3688,3688,Machn,Machinery and Business Equipment,17
+11,3689,3689,Machn,Machinery and Business Equipment,17
+11,3690,3690,Machn,Machinery and Business Equipment,17
+11,3691,3692,Machn,Machinery and Business Equipment,17
+11,3693,3693,Machn,Machinery and Business Equipment,17
+11,3694,3694,Machn,Machinery and Business Equipment,17
+11,3695,3695,Machn,Machinery and Business Equipment,17
+11,3699,3699,Machn,Machinery and Business Equipment,17
+11,3810,3810,Machn,Machinery and Business Equipment,17
+11,3811,3811,Machn,Machinery and Business Equipment,17
+11,3812,3812,Machn,Machinery and Business Equipment,17
+11,3820,3820,Machn,Machinery and Business Equipment,17
+11,3821,3821,Machn,Machinery and Business Equipment,17
+11,3822,3822,Machn,Machinery and Business Equipment,17
+11,3823,3823,Machn,Machinery and Business Equipment,17
+11,3824,3824,Machn,Machinery and Business Equipment,17
+11,3825,3825,Machn,Machinery and Business Equipment,17
+11,3826,3826,Machn,Machinery and Business Equipment,17
+11,3827,3827,Machn,Machinery and Business Equipment,17
+11,3829,3829,Machn,Machinery and Business Equipment,17
+11,3830,3839,Machn,Machinery and Business Equipment,17
+11,3950,3955,Machn,Machinery and Business Equipment,17
+11,5060,5060,Machn,Machinery and Business Equipment,17
+11,5063,5063,Machn,Machinery and Business Equipment,17
+11,5065,5065,Machn,Machinery and Business Equipment,17
+11,5080,5080,Machn,Machinery and Business Equipment,17
+11,5081,5081,Machn,Machinery and Business Equipment,17
+12,3710,3710,Cars,Automobiles,17
+12,3711,3711,Cars,Automobiles,17
+12,3714,3714,Cars,Automobiles,17
+12,3716,3716,Cars,Automobiles,17
+12,3750,3751,Cars,Automobiles,17
+12,3792,3792,Cars,Automobiles,17
+12,5010,5015,Cars,Automobiles,17
+12,5510,5521,Cars,Automobiles,17
+12,5530,5531,Cars,Automobiles,17
+12,5560,5561,Cars,Automobiles,17
+12,5570,5571,Cars,Automobiles,17
+12,5590,5599,Cars,Automobiles,17
+13,3713,3713,Trans,Transportation,17
+13,3715,3715,Trans,Transportation,17
+13,3720,3720,Trans,Transportation,17
+13,3721,3721,Trans,Transportation,17
+13,3724,3724,Trans,Transportation,17
+13,3725,3725,Trans,Transportation,17
+13,3728,3728,Trans,Transportation,17
+13,3730,3731,Trans,Transportation,17
+13,3732,3732,Trans,Transportation,17
+13,3740,3743,Trans,Transportation,17
+13,3760,3769,Trans,Transportation,17
+13,3790,3790,Trans,Transportation,17
+13,3795,3795,Trans,Transportation,17
+13,3799,3799,Trans,Transportation,17
+13,4000,4013,Trans,Transportation,17
+13,4100,4100,Trans,Transportation,17
+13,4110,4119,Trans,Transportation,17
+13,4120,4121,Trans,Transportation,17
+13,4130,4131,Trans,Transportation,17
+13,4140,4142,Trans,Transportation,17
+13,4150,4151,Trans,Transportation,17
+13,4170,4173,Trans,Transportation,17
+13,4190,4199,Trans,Transportation,17
+13,4200,4200,Trans,Transportation,17
+13,4210,4219,Trans,Transportation,17
+13,4220,4229,Trans,Transportation,17
+13,4230,4231,Trans,Transportation,17
+13,4400,4499,Trans,Transportation,17
+13,4500,4599,Trans,Transportation,17
+13,4600,4699,Trans,Transportation,17
+13,4700,4700,Trans,Transportation,17
+13,4710,4712,Trans,Transportation,17
+13,4720,4729,Trans,Transportation,17
+13,4730,4739,Trans,Transportation,17
+13,4740,4742,Trans,Transportation,17
+13,4780,4780,Trans,Transportation,17
+13,4783,4783,Trans,Transportation,17
+13,4785,4785,Trans,Transportation,17
+13,4789,4789,Trans,Transportation,17
+14,4900,4900,Utils,Utilities,17
+14,4910,4911,Utils,Utilities,17
+14,4920,4922,Utils,Utilities,17
+14,4923,4923,Utils,Utilities,17
+14,4924,4925,Utils,Utilities,17
+14,4930,4931,Utils,Utilities,17
+14,4932,4932,Utils,Utilities,17
+14,4939,4939,Utils,Utilities,17
+14,4940,4942,Utils,Utilities,17
+15,5260,5261,Rtail,Retail Stores,17
+15,5270,5271,Rtail,Retail Stores,17
+15,5300,5300,Rtail,Retail Stores,17
+15,5310,5311,Rtail,Retail Stores,17
+15,5320,5320,Rtail,Retail Stores,17
+15,5330,5331,Rtail,Retail Stores,17
+15,5334,5334,Rtail,Retail Stores,17
+15,5390,5399,Rtail,Retail Stores,17
+15,5400,5400,Rtail,Retail Stores,17
+15,5410,5411,Rtail,Retail Stores,17
+15,5412,5412,Rtail,Retail Stores,17
+15,5420,5421,Rtail,Retail Stores,17
+15,5430,5431,Rtail,Retail Stores,17
+15,5440,5441,Rtail,Retail Stores,17
+15,5450,5451,Rtail,Retail Stores,17
+15,5460,5461,Rtail,Retail Stores,17
+15,5490,5499,Rtail,Retail Stores,17
+15,5540,5541,Rtail,Retail Stores,17
+15,5550,5551,Rtail,Retail Stores,17
+15,5600,5699,Rtail,Retail Stores,17
+15,5700,5700,Rtail,Retail Stores,17
+15,5710,5719,Rtail,Retail Stores,17
+15,5720,5722,Rtail,Retail Stores,17
+15,5730,5733,Rtail,Retail Stores,17
+15,5734,5734,Rtail,Retail Stores,17
+15,5735,5735,Rtail,Retail Stores,17
+15,5736,5736,Rtail,Retail Stores,17
+15,5750,5750,Rtail,Retail Stores,17
+15,5800,5813,Rtail,Retail Stores,17
+15,5890,5890,Rtail,Retail Stores,17
+15,5900,5900,Rtail,Retail Stores,17
+15,5910,5912,Rtail,Retail Stores,17
+15,5920,5921,Rtail,Retail Stores,17
+15,5930,5932,Rtail,Retail Stores,17
+15,5940,5940,Rtail,Retail Stores,17
+15,5941,5941,Rtail,Retail Stores,17
+15,5942,5942,Rtail,Retail Stores,17
+15,5943,5943,Rtail,Retail Stores,17
+15,5944,5944,Rtail,Retail Stores,17
+15,5945,5945,Rtail,Retail Stores,17
+15,5946,5946,Rtail,Retail Stores,17
+15,5947,5947,Rtail,Retail Stores,17
+15,5948,5948,Rtail,Retail Stores,17
+15,5949,5949,Rtail,Retail Stores,17
+15,5960,5963,Rtail,Retail Stores,17
+15,5980,5989,Rtail,Retail Stores,17
+15,5990,5990,Rtail,Retail Stores,17
+15,5992,5992,Rtail,Retail Stores,17
+15,5993,5993,Rtail,Retail Stores,17
+15,5994,5994,Rtail,Retail Stores,17
+15,5995,5995,Rtail,Retail Stores,17
+15,5999,5999,Rtail,Retail Stores,17
+16,6010,6019,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6020,6020,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6021,6021,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6022,6022,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6023,6023,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6025,6025,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6026,6026,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6028,6029,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6030,6036,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6040,6049,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6050,6059,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6060,6062,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6080,6082,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6090,6099,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6100,6100,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6110,6111,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6112,6112,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6120,6129,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6140,6149,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6150,6159,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6160,6163,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6172,6172,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6199,6199,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6200,6299,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6300,6300,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6310,6312,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6320,6324,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6330,6331,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6350,6351,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6360,6361,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6370,6371,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6390,6399,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6400,6411,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6500,6500,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6510,6510,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6512,6512,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6513,6513,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6514,6514,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6515,6515,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6517,6519,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6530,6531,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6532,6532,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6540,6541,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6550,6553,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6611,6611,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6700,6700,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6710,6719,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6720,6722,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6723,6723,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6724,6724,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6725,6725,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6726,6726,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6730,6733,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6790,6790,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6792,6792,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6794,6794,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6795,6795,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6798,6798,Finan,"Banks, Insurance Companies, and Other Financials",17
+16,6799,6799,Finan,"Banks, Insurance Companies, and Other Financials",17
+17,2520,2549,Other,Other,17
+17,2600,2639,Other,Other,17
+17,2640,2659,Other,Other,17
+17,2661,2661,Other,Other,17
+17,2670,2699,Other,Other,17
+17,2700,2709,Other,Other,17
+17,2710,2719,Other,Other,17
+17,2720,2729,Other,Other,17
+17,2730,2739,Other,Other,17
+17,2740,2749,Other,Other,17
+17,2750,2759,Other,Other,17
+17,2760,2761,Other,Other,17
+17,2770,2771,Other,Other,17
+17,2780,2789,Other,Other,17
+17,2790,2799,Other,Other,17
+17,2835,2835,Other,Other,17
+17,2836,2836,Other,Other,17
+17,2990,2999,Other,Other,17
+17,3000,3000,Other,Other,17
+17,3010,3011,Other,Other,17
+17,3041,3041,Other,Other,17
+17,3050,3053,Other,Other,17
+17,3160,3161,Other,Other,17
+17,3170,3171,Other,Other,17
+17,3172,3172,Other,Other,17
+17,3190,3199,Other,Other,17
+17,3220,3221,Other,Other,17
+17,3229,3229,Other,Other,17
+17,3230,3231,Other,Other,17
+17,3260,3260,Other,Other,17
+17,3262,3263,Other,Other,17
+17,3269,3269,Other,Other,17
+17,3295,3299,Other,Other,17
+17,3537,3537,Other,Other,17
+17,3640,3644,Other,Other,17
+17,3645,3645,Other,Other,17
+17,3646,3646,Other,Other,17
+17,3647,3647,Other,Other,17
+17,3648,3649,Other,Other,17
+17,3660,3660,Other,Other,17
+17,3661,3661,Other,Other,17
+17,3662,3662,Other,Other,17
+17,3663,3663,Other,Other,17
+17,3664,3664,Other,Other,17
+17,3665,3665,Other,Other,17
+17,3666,3666,Other,Other,17
+17,3669,3669,Other,Other,17
+17,3840,3849,Other,Other,17
+17,3850,3851,Other,Other,17
+17,3991,3991,Other,Other,17
+17,3993,3993,Other,Other,17
+17,3995,3995,Other,Other,17
+17,3996,3996,Other,Other,17
+17,4810,4813,Other,Other,17
+17,4820,4822,Other,Other,17
+17,4830,4839,Other,Other,17
+17,4840,4841,Other,Other,17
+17,4890,4890,Other,Other,17
+17,4891,4891,Other,Other,17
+17,4892,4892,Other,Other,17
+17,4899,4899,Other,Other,17
+17,4950,4959,Other,Other,17
+17,4960,4961,Other,Other,17
+17,4970,4971,Other,Other,17
+17,4991,4991,Other,Other,17
+17,5040,5042,Other,Other,17
+17,5043,5043,Other,Other,17
+17,5044,5044,Other,Other,17
+17,5045,5045,Other,Other,17
+17,5046,5046,Other,Other,17
+17,5047,5047,Other,Other,17
+17,5048,5048,Other,Other,17
+17,5049,5049,Other,Other,17
+17,5082,5082,Other,Other,17
+17,5083,5083,Other,Other,17
+17,5084,5084,Other,Other,17
+17,5085,5085,Other,Other,17
+17,5086,5087,Other,Other,17
+17,5088,5088,Other,Other,17
+17,5090,5090,Other,Other,17
+17,5091,5092,Other,Other,17
+17,5093,5093,Other,Other,17
+17,5100,5100,Other,Other,17
+17,5110,5113,Other,Other,17
+17,5199,5199,Other,Other,17
+17,7000,7000,Other,Other,17
+17,7010,7011,Other,Other,17
+17,7020,7021,Other,Other,17
+17,7030,7033,Other,Other,17
+17,7040,7041,Other,Other,17
+17,7200,7200,Other,Other,17
+17,7210,7212,Other,Other,17
+17,7213,7213,Other,Other,17
+17,7215,7216,Other,Other,17
+17,7217,7217,Other,Other,17
+17,7218,7218,Other,Other,17
+17,7219,7219,Other,Other,17
+17,7220,7221,Other,Other,17
+17,7230,7231,Other,Other,17
+17,7240,7241,Other,Other,17
+17,7250,7251,Other,Other,17
+17,7260,7269,Other,Other,17
+17,7290,7290,Other,Other,17
+17,7291,7291,Other,Other,17
+17,7299,7299,Other,Other,17
+17,7300,7300,Other,Other,17
+17,7310,7319,Other,Other,17
+17,7320,7323,Other,Other,17
+17,7330,7338,Other,Other,17
+17,7340,7342,Other,Other,17
+17,7349,7349,Other,Other,17
+17,7350,7351,Other,Other,17
+17,7352,7352,Other,Other,17
+17,7353,7353,Other,Other,17
+17,7359,7359,Other,Other,17
+17,7360,7369,Other,Other,17
+17,7370,7372,Other,Other,17
+17,7373,7373,Other,Other,17
+17,7374,7374,Other,Other,17
+17,7375,7375,Other,Other,17
+17,7376,7376,Other,Other,17
+17,7377,7377,Other,Other,17
+17,7378,7378,Other,Other,17
+17,7379,7379,Other,Other,17
+17,7380,7380,Other,Other,17
+17,7381,7382,Other,Other,17
+17,7383,7383,Other,Other,17
+17,7384,7384,Other,Other,17
+17,7385,7385,Other,Other,17
+17,7389,7390,Other,Other,17
+17,7391,7391,Other,Other,17
+17,7392,7392,Other,Other,17
+17,7393,7393,Other,Other,17
+17,7394,7394,Other,Other,17
+17,7395,7395,Other,Other,17
+17,7397,7397,Other,Other,17
+17,7399,7399,Other,Other,17
+17,7500,7500,Other,Other,17
+17,7510,7519,Other,Other,17
+17,7520,7523,Other,Other,17
+17,7530,7539,Other,Other,17
+17,7540,7549,Other,Other,17
+17,7600,7600,Other,Other,17
+17,7620,7620,Other,Other,17
+17,7622,7622,Other,Other,17
+17,7623,7623,Other,Other,17
+17,7629,7629,Other,Other,17
+17,7630,7631,Other,Other,17
+17,7640,7641,Other,Other,17
+17,7690,7699,Other,Other,17
+17,7800,7829,Other,Other,17
+17,7830,7833,Other,Other,17
+17,7840,7841,Other,Other,17
+17,7900,7900,Other,Other,17
+17,7910,7911,Other,Other,17
+17,7920,7929,Other,Other,17
+17,7930,7933,Other,Other,17
+17,7940,7949,Other,Other,17
+17,7980,7980,Other,Other,17
+17,7990,7999,Other,Other,17
+17,8000,8099,Other,Other,17
+17,8100,8199,Other,Other,17
+17,8200,8299,Other,Other,17
+17,8300,8399,Other,Other,17
+17,8400,8499,Other,Other,17
+17,8600,8699,Other,Other,17
+17,8700,8700,Other,Other,17
+17,8710,8713,Other,Other,17
+17,8720,8721,Other,Other,17
+17,8730,8734,Other,Other,17
+17,8740,8748,Other,Other,17
+17,8800,8899,Other,Other,17
+17,8900,8910,Other,Other,17
+17,8911,8911,Other,Other,17
+17,8920,8999,Other,Other,17
+1,100,199,Food,Food Products,30
+1,200,299,Food,Food Products,30
+1,700,799,Food,Food Products,30
+1,910,919,Food,Food Products,30
+1,2000,2009,Food,Food Products,30
+1,2010,2019,Food,Food Products,30
+1,2020,2029,Food,Food Products,30
+1,2030,2039,Food,Food Products,30
+1,2040,2046,Food,Food Products,30
+1,2048,2048,Food,Food Products,30
+1,2050,2059,Food,Food Products,30
+1,2060,2063,Food,Food Products,30
+1,2064,2068,Food,Food Products,30
+1,2070,2079,Food,Food Products,30
+1,2086,2086,Food,Food Products,30
+1,2087,2087,Food,Food Products,30
+1,2090,2092,Food,Food Products,30
+1,2095,2095,Food,Food Products,30
+1,2096,2096,Food,Food Products,30
+1,2097,2097,Food,Food Products,30
+1,2098,2099,Food,Food Products,30
+2,2080,2080,Beer,Beer & Liquor,30
+2,2082,2082,Beer,Beer & Liquor,30
+2,2083,2083,Beer,Beer & Liquor,30
+2,2084,2084,Beer,Beer & Liquor,30
+2,2085,2085,Beer,Beer & Liquor,30
+3,2100,2199,Smoke,Tobacco Products,30
+4,920,999,Games,Recreation,30
+4,3650,3651,Games,Recreation,30
+4,3652,3652,Games,Recreation,30
+4,3732,3732,Games,Recreation,30
+4,3930,3931,Games,Recreation,30
+4,3940,3949,Games,Recreation,30
+4,7800,7829,Games,Recreation,30
+4,7830,7833,Games,Recreation,30
+4,7840,7841,Games,Recreation,30
+4,7900,7900,Games,Recreation,30
+4,7910,7911,Games,Recreation,30
+4,7920,7929,Games,Recreation,30
+4,7930,7933,Games,Recreation,30
+4,7940,7949,Games,Recreation,30
+4,7980,7980,Games,Recreation,30
+4,7990,7999,Games,Recreation,30
+5,2700,2709,Books,Printing and Publishing,30
+5,2710,2719,Books,Printing and Publishing,30
+5,2720,2729,Books,Printing and Publishing,30
+5,2730,2739,Books,Printing and Publishing,30
+5,2740,2749,Books,Printing and Publishing,30
+5,2750,2759,Books,Printing and Publishing,30
+5,2770,2771,Books,Printing and Publishing,30
+5,2780,2789,Books,Printing and Publishing,30
+5,2790,2799,Books,Printing and Publishing,30
+5,3993,3993,Books,Printing and Publishing,30
+6,2047,2047,Hshld,Consumer Goods,30
+6,2391,2392,Hshld,Consumer Goods,30
+6,2510,2519,Hshld,Consumer Goods,30
+6,2590,2599,Hshld,Consumer Goods,30
+6,2840,2843,Hshld,Consumer Goods,30
+6,2844,2844,Hshld,Consumer Goods,30
+6,3160,3161,Hshld,Consumer Goods,30
+6,3170,3171,Hshld,Consumer Goods,30
+6,3172,3172,Hshld,Consumer Goods,30
+6,3190,3199,Hshld,Consumer Goods,30
+6,3229,3229,Hshld,Consumer Goods,30
+6,3260,3260,Hshld,Consumer Goods,30
+6,3262,3263,Hshld,Consumer Goods,30
+6,3269,3269,Hshld,Consumer Goods,30
+6,3230,3231,Hshld,Consumer Goods,30
+6,3630,3639,Hshld,Consumer Goods,30
+6,3750,3751,Hshld,Consumer Goods,30
+6,3800,3800,Hshld,Consumer Goods,30
+6,3860,3861,Hshld,Consumer Goods,30
+6,3870,3873,Hshld,Consumer Goods,30
+6,3910,3911,Hshld,Consumer Goods,30
+6,3914,3914,Hshld,Consumer Goods,30
+6,3915,3915,Hshld,Consumer Goods,30
+6,3960,3962,Hshld,Consumer Goods,30
+6,3991,3991,Hshld,Consumer Goods,30
+6,3995,3995,Hshld,Consumer Goods,30
+7,2300,2390,Clths,Apparel,30
+7,3020,3021,Clths,Apparel,30
+7,3100,3111,Clths,Apparel,30
+7,3130,3131,Clths,Apparel,30
+7,3140,3149,Clths,Apparel,30
+7,3150,3151,Clths,Apparel,30
+7,3963,3965,Clths,Apparel,30
+8,2830,2830,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,2831,2831,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,2833,2833,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,2834,2834,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,2835,2835,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,2836,2836,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,3693,3693,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,3840,3849,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,3850,3851,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+8,8000,8099,Hlth,"Healthcare, Medical Equipment, Pharmaceutical Products",30
+9,2800,2809,Chems,Chemicals,30
+9,2810,2819,Chems,Chemicals,30
+9,2820,2829,Chems,Chemicals,30
+9,2850,2859,Chems,Chemicals,30
+9,2860,2869,Chems,Chemicals,30
+9,2870,2879,Chems,Chemicals,30
+9,2890,2899,Chems,Chemicals,30
+10,2200,2269,Txtls,Textiles,30
+10,2270,2279,Txtls,Textiles,30
+10,2280,2284,Txtls,Textiles,30
+10,2290,2295,Txtls,Textiles,30
+10,2297,2297,Txtls,Textiles,30
+10,2298,2298,Txtls,Textiles,30
+10,2299,2299,Txtls,Textiles,30
+10,2393,2395,Txtls,Textiles,30
+10,2397,2399,Txtls,Textiles,30
+11,800,899,Cnstr,Construction and Construction Materials,30
+11,1500,1511,Cnstr,Construction and Construction Materials,30
+11,1520,1529,Cnstr,Construction and Construction Materials,30
+11,1530,1539,Cnstr,Construction and Construction Materials,30
+11,1540,1549,Cnstr,Construction and Construction Materials,30
+11,1600,1699,Cnstr,Construction and Construction Materials,30
+11,1700,1799,Cnstr,Construction and Construction Materials,30
+11,2400,2439,Cnstr,Construction and Construction Materials,30
+11,2450,2459,Cnstr,Construction and Construction Materials,30
+11,2490,2499,Cnstr,Construction and Construction Materials,30
+11,2660,2661,Cnstr,Construction and Construction Materials,30
+11,2950,2952,Cnstr,Construction and Construction Materials,30
+11,3200,3200,Cnstr,Construction and Construction Materials,30
+11,3210,3211,Cnstr,Construction and Construction Materials,30
+11,3240,3241,Cnstr,Construction and Construction Materials,30
+11,3250,3259,Cnstr,Construction and Construction Materials,30
+11,3261,3261,Cnstr,Construction and Construction Materials,30
+11,3264,3264,Cnstr,Construction and Construction Materials,30
+11,3270,3275,Cnstr,Construction and Construction Materials,30
+11,3280,3281,Cnstr,Construction and Construction Materials,30
+11,3290,3293,Cnstr,Construction and Construction Materials,30
+11,3295,3299,Cnstr,Construction and Construction Materials,30
+11,3420,3429,Cnstr,Construction and Construction Materials,30
+11,3430,3433,Cnstr,Construction and Construction Materials,30
+11,3440,3441,Cnstr,Construction and Construction Materials,30
+11,3442,3442,Cnstr,Construction and Construction Materials,30
+11,3446,3446,Cnstr,Construction and Construction Materials,30
+11,3448,3448,Cnstr,Construction and Construction Materials,30
+11,3449,3449,Cnstr,Construction and Construction Materials,30
+11,3450,3451,Cnstr,Construction and Construction Materials,30
+11,3452,3452,Cnstr,Construction and Construction Materials,30
+11,3490,3499,Cnstr,Construction and Construction Materials,30
+11,3996,3996,Cnstr,Construction and Construction Materials,30
+12,3300,3300,Steel,Steel Works Etc,30
+12,3310,3317,Steel,Steel Works Etc,30
+12,3320,3325,Steel,Steel Works Etc,30
+12,3330,3339,Steel,Steel Works Etc,30
+12,3340,3341,Steel,Steel Works Etc,30
+12,3350,3357,Steel,Steel Works Etc,30
+12,3360,3369,Steel,Steel Works Etc,30
+12,3370,3379,Steel,Steel Works Etc,30
+12,3390,3399,Steel,Steel Works Etc,30
+13,3400,3400,FabPr,Fabricated Products and Machinery,30
+13,3443,3443,FabPr,Fabricated Products and Machinery,30
+13,3444,3444,FabPr,Fabricated Products and Machinery,30
+13,3460,3469,FabPr,Fabricated Products and Machinery,30
+13,3470,3479,FabPr,Fabricated Products and Machinery,30
+13,3510,3519,FabPr,Fabricated Products and Machinery,30
+13,3520,3529,FabPr,Fabricated Products and Machinery,30
+13,3530,3530,FabPr,Fabricated Products and Machinery,30
+13,3531,3531,FabPr,Fabricated Products and Machinery,30
+13,3532,3532,FabPr,Fabricated Products and Machinery,30
+13,3533,3533,FabPr,Fabricated Products and Machinery,30
+13,3534,3534,FabPr,Fabricated Products and Machinery,30
+13,3535,3535,FabPr,Fabricated Products and Machinery,30
+13,3536,3536,FabPr,Fabricated Products and Machinery,30
+13,3538,3538,FabPr,Fabricated Products and Machinery,30
+13,3540,3549,FabPr,Fabricated Products and Machinery,30
+13,3550,3559,FabPr,Fabricated Products and Machinery,30
+13,3560,3569,FabPr,Fabricated Products and Machinery,30
+13,3580,3580,FabPr,Fabricated Products and Machinery,30
+13,3581,3581,FabPr,Fabricated Products and Machinery,30
+13,3582,3582,FabPr,Fabricated Products and Machinery,30
+13,3585,3585,FabPr,Fabricated Products and Machinery,30
+13,3586,3586,FabPr,Fabricated Products and Machinery,30
+13,3589,3589,FabPr,Fabricated Products and Machinery,30
+13,3590,3599,FabPr,Fabricated Products and Machinery,30
+14,3600,3600,ElcEq,Electrical Equipment,30
+14,3610,3613,ElcEq,Electrical Equipment,30
+14,3620,3621,ElcEq,Electrical Equipment,30
+14,3623,3629,ElcEq,Electrical Equipment,30
+14,3640,3644,ElcEq,Electrical Equipment,30
+14,3645,3645,ElcEq,Electrical Equipment,30
+14,3646,3646,ElcEq,Electrical Equipment,30
+14,3648,3649,ElcEq,Electrical Equipment,30
+14,3660,3660,ElcEq,Electrical Equipment,30
+14,3690,3690,ElcEq,Electrical Equipment,30
+14,3691,3692,ElcEq,Electrical Equipment,30
+14,3699,3699,ElcEq,Electrical Equipment,30
+15,2296,2296,Autos,Automobiles and Trucks,30
+15,2396,2396,Autos,Automobiles and Trucks,30
+15,3010,3011,Autos,Automobiles and Trucks,30
+15,3537,3537,Autos,Automobiles and Trucks,30
+15,3647,3647,Autos,Automobiles and Trucks,30
+15,3694,3694,Autos,Automobiles and Trucks,30
+15,3700,3700,Autos,Automobiles and Trucks,30
+15,3710,3710,Autos,Automobiles and Trucks,30
+15,3711,3711,Autos,Automobiles and Trucks,30
+15,3713,3713,Autos,Automobiles and Trucks,30
+15,3714,3714,Autos,Automobiles and Trucks,30
+15,3715,3715,Autos,Automobiles and Trucks,30
+15,3716,3716,Autos,Automobiles and Trucks,30
+15,3792,3792,Autos,Automobiles and Trucks,30
+15,3790,3791,Autos,Automobiles and Trucks,30
+15,3799,3799,Autos,Automobiles and Trucks,30
+16,3720,3720,Carry,"Aircraft, ships, and railroad equipment",30
+16,3721,3721,Carry,"Aircraft, ships, and railroad equipment",30
+16,3723,3724,Carry,"Aircraft, ships, and railroad equipment",30
+16,3725,3725,Carry,"Aircraft, ships, and railroad equipment",30
+16,3728,3729,Carry,"Aircraft, ships, and railroad equipment",30
+16,3730,3731,Carry,"Aircraft, ships, and railroad equipment",30
+16,3740,3743,Carry,"Aircraft, ships, and railroad equipment",30
+17,1000,1009,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1010,1019,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1020,1029,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1030,1039,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1040,1049,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1050,1059,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1060,1069,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1070,1079,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1080,1089,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1090,1099,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1100,1119,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+17,1400,1499,Mines,"Precious Metals, Non-Metallic, and Industrial Metal Mining",30
+18,1200,1299,Coal,Coal,30
+19,1300,1300,Oil,Petroleum and Natural Gas,30
+19,1310,1319,Oil,Petroleum and Natural Gas,30
+19,1320,1329,Oil,Petroleum and Natural Gas,30
+19,1330,1339,Oil,Petroleum and Natural Gas,30
+19,1370,1379,Oil,Petroleum and Natural Gas,30
+19,1380,1380,Oil,Petroleum and Natural Gas,30
+19,1381,1381,Oil,Petroleum and Natural Gas,30
+19,1382,1382,Oil,Petroleum and Natural Gas,30
+19,1389,1389,Oil,Petroleum and Natural Gas,30
+19,2900,2912,Oil,Petroleum and Natural Gas,30
+19,2990,2999,Oil,Petroleum and Natural Gas,30
+20,4900,4900,Util,Utilities,30
+20,4910,4911,Util,Utilities,30
+20,4920,4922,Util,Utilities,30
+20,4923,4923,Util,Utilities,30
+20,4924,4925,Util,Utilities,30
+20,4930,4931,Util,Utilities,30
+20,4932,4932,Util,Utilities,30
+20,4939,4939,Util,Utilities,30
+20,4940,4942,Util,Utilities,30
+21,4800,4800,Telcm,Communication,30
+21,4810,4813,Telcm,Communication,30
+21,4820,4822,Telcm,Communication,30
+21,4830,4839,Telcm,Communication,30
+21,4840,4841,Telcm,Communication,30
+21,4880,4889,Telcm,Communication,30
+21,4890,4890,Telcm,Communication,30
+21,4891,4891,Telcm,Communication,30
+21,4892,4892,Telcm,Communication,30
+21,4899,4899,Telcm,Communication,30
+22,7020,7021,Servs,Personal and Business Services,30
+22,7030,7033,Servs,Personal and Business Services,30
+22,7200,7200,Servs,Personal and Business Services,30
+22,7210,7212,Servs,Personal and Business Services,30
+22,7214,7214,Servs,Personal and Business Services,30
+22,7215,7216,Servs,Personal and Business Services,30
+22,7217,7217,Servs,Personal and Business Services,30
+22,7218,7218,Servs,Personal and Business Services,30
+22,7219,7219,Servs,Personal and Business Services,30
+22,7220,7221,Servs,Personal and Business Services,30
+22,7230,7231,Servs,Personal and Business Services,30
+22,7240,7241,Servs,Personal and Business Services,30
+22,7250,7251,Servs,Personal and Business Services,30
+22,7260,7269,Servs,Personal and Business Services,30
+22,7270,7290,Servs,Personal and Business Services,30
+22,7291,7291,Servs,Personal and Business Services,30
+22,7292,7299,Servs,Personal and Business Services,30
+22,7300,7300,Servs,Personal and Business Services,30
+22,7310,7319,Servs,Personal and Business Services,30
+22,7320,7329,Servs,Personal and Business Services,30
+22,7330,7339,Servs,Personal and Business Services,30
+22,7340,7342,Servs,Personal and Business Services,30
+22,7349,7349,Servs,Personal and Business Services,30
+22,7350,7351,Servs,Personal and Business Services,30
+22,7352,7352,Servs,Personal and Business Services,30
+22,7353,7353,Servs,Personal and Business Services,30
+22,7359,7359,Servs,Personal and Business Services,30
+22,7360,7369,Servs,Personal and Business Services,30
+22,7370,7372,Servs,Personal and Business Services,30
+22,7374,7374,Servs,Personal and Business Services,30
+22,7375,7375,Servs,Personal and Business Services,30
+22,7376,7376,Servs,Personal and Business Services,30
+22,7377,7377,Servs,Personal and Business Services,30
+22,7378,7378,Servs,Personal and Business Services,30
+22,7379,7379,Servs,Personal and Business Services,30
+22,7380,7380,Servs,Personal and Business Services,30
+22,7381,7382,Servs,Personal and Business Services,30
+22,7383,7383,Servs,Personal and Business Services,30
+22,7384,7384,Servs,Personal and Business Services,30
+22,7385,7385,Servs,Personal and Business Services,30
+22,7389,7390,Servs,Personal and Business Services,30
+22,7391,7391,Servs,Personal and Business Services,30
+22,7392,7392,Servs,Personal and Business Services,30
+22,7393,7393,Servs,Personal and Business Services,30
+22,7394,7394,Servs,Personal and Business Services,30
+22,7395,7395,Servs,Personal and Business Services,30
+22,7396,7396,Servs,Personal and Business Services,30
+22,7397,7397,Servs,Personal and Business Services,30
+22,7399,7399,Servs,Personal and Business Services,30
+22,7500,7500,Servs,Personal and Business Services,30
+22,7510,7519,Servs,Personal and Business Services,30
+22,7520,7529,Servs,Personal and Business Services,30
+22,7530,7539,Servs,Personal and Business Services,30
+22,7540,7549,Servs,Personal and Business Services,30
+22,7600,7600,Servs,Personal and Business Services,30
+22,7620,7620,Servs,Personal and Business Services,30
+22,7622,7622,Servs,Personal and Business Services,30
+22,7623,7623,Servs,Personal and Business Services,30
+22,7629,7629,Servs,Personal and Business Services,30
+22,7630,7631,Servs,Personal and Business Services,30
+22,7640,7641,Servs,Personal and Business Services,30
+22,7690,7699,Servs,Personal and Business Services,30
+22,8100,8199,Servs,Personal and Business Services,30
+22,8200,8299,Servs,Personal and Business Services,30
+22,8300,8399,Servs,Personal and Business Services,30
+22,8400,8499,Servs,Personal and Business Services,30
+22,8600,8699,Servs,Personal and Business Services,30
+22,8700,8700,Servs,Personal and Business Services,30
+22,8710,8713,Servs,Personal and Business Services,30
+22,8720,8721,Servs,Personal and Business Services,30
+22,8730,8734,Servs,Personal and Business Services,30
+22,8740,8748,Servs,Personal and Business Services,30
+22,8800,8899,Servs,Personal and Business Services,30
+22,8900,8910,Servs,Personal and Business Services,30
+22,8911,8911,Servs,Personal and Business Services,30
+22,8920,8999,Servs,Personal and Business Services,30
+23,3570,3579,BusEq,Business Equipment,30
+23,3622,3622,BusEq,Business Equipment,30
+23,3661,3661,BusEq,Business Equipment,30
+23,3662,3662,BusEq,Business Equipment,30
+23,3663,3663,BusEq,Business Equipment,30
+23,3664,3664,BusEq,Business Equipment,30
+23,3665,3665,BusEq,Business Equipment,30
+23,3666,3666,BusEq,Business Equipment,30
+23,3669,3669,BusEq,Business Equipment,30
+23,3670,3679,BusEq,Business Equipment,30
+23,3680,3680,BusEq,Business Equipment,30
+23,3681,3681,BusEq,Business Equipment,30
+23,3682,3682,BusEq,Business Equipment,30
+23,3683,3683,BusEq,Business Equipment,30
+23,3684,3684,BusEq,Business Equipment,30
+23,3685,3685,BusEq,Business Equipment,30
+23,3686,3686,BusEq,Business Equipment,30
+23,3687,3687,BusEq,Business Equipment,30
+23,3688,3688,BusEq,Business Equipment,30
+23,3689,3689,BusEq,Business Equipment,30
+23,3695,3695,BusEq,Business Equipment,30
+23,3810,3810,BusEq,Business Equipment,30
+23,3811,3811,BusEq,Business Equipment,30
+23,3812,3812,BusEq,Business Equipment,30
+23,3820,3820,BusEq,Business Equipment,30
+23,3821,3821,BusEq,Business Equipment,30
+23,3822,3822,BusEq,Business Equipment,30
+23,3823,3823,BusEq,Business Equipment,30
+23,3824,3824,BusEq,Business Equipment,30
+23,3825,3825,BusEq,Business Equipment,30
+23,3826,3826,BusEq,Business Equipment,30
+23,3827,3827,BusEq,Business Equipment,30
+23,3829,3829,BusEq,Business Equipment,30
+23,3830,3839,BusEq,Business Equipment,30
+23,7373,7373,BusEq,Business Equipment,30
+24,2440,2449,Paper,Business Supplies and Shipping Containers,30
+24,2520,2549,Paper,Business Supplies and Shipping Containers,30
+24,2600,2639,Paper,Business Supplies and Shipping Containers,30
+24,2640,2659,Paper,Business Supplies and Shipping Containers,30
+24,2670,2699,Paper,Business Supplies and Shipping Containers,30
+24,2760,2761,Paper,Business Supplies and Shipping Containers,30
+24,3220,3221,Paper,Business Supplies and Shipping Containers,30
+24,3410,3412,Paper,Business Supplies and Shipping Containers,30
+24,3950,3955,Paper,Business Supplies and Shipping Containers,30
+25,4000,4013,Trans,Transportation,30
+25,4040,4049,Trans,Transportation,30
+25,4100,4100,Trans,Transportation,30
+25,4110,4119,Trans,Transportation,30
+25,4120,4121,Trans,Transportation,30
+25,4130,4131,Trans,Transportation,30
+25,4140,4142,Trans,Transportation,30
+25,4150,4151,Trans,Transportation,30
+25,4170,4173,Trans,Transportation,30
+25,4190,4199,Trans,Transportation,30
+25,4200,4200,Trans,Transportation,30
+25,4210,4219,Trans,Transportation,30
+25,4220,4229,Trans,Transportation,30
+25,4230,4231,Trans,Transportation,30
+25,4240,4249,Trans,Transportation,30
+25,4400,4499,Trans,Transportation,30
+25,4500,4599,Trans,Transportation,30
+25,4600,4699,Trans,Transportation,30
+25,4700,4700,Trans,Transportation,30
+25,4710,4712,Trans,Transportation,30
+25,4720,4729,Trans,Transportation,30
+25,4730,4739,Trans,Transportation,30
+25,4740,4749,Trans,Transportation,30
+25,4780,4780,Trans,Transportation,30
+25,4782,4782,Trans,Transportation,30
+25,4783,4783,Trans,Transportation,30
+25,4784,4784,Trans,Transportation,30
+25,4785,4785,Trans,Transportation,30
+25,4789,4789,Trans,Transportation,30
+26,5000,5000,Whlsl,Wholesale,30
+26,5010,5015,Whlsl,Wholesale,30
+26,5020,5023,Whlsl,Wholesale,30
+26,5030,5039,Whlsl,Wholesale,30
+26,5040,5042,Whlsl,Wholesale,30
+26,5043,5043,Whlsl,Wholesale,30
+26,5044,5044,Whlsl,Wholesale,30
+26,5045,5045,Whlsl,Wholesale,30
+26,5046,5046,Whlsl,Wholesale,30
+26,5047,5047,Whlsl,Wholesale,30
+26,5048,5048,Whlsl,Wholesale,30
+26,5049,5049,Whlsl,Wholesale,30
+26,5050,5059,Whlsl,Wholesale,30
+26,5060,5060,Whlsl,Wholesale,30
+26,5063,5063,Whlsl,Wholesale,30
+26,5064,5064,Whlsl,Wholesale,30
+26,5065,5065,Whlsl,Wholesale,30
+26,5070,5078,Whlsl,Wholesale,30
+26,5080,5080,Whlsl,Wholesale,30
+26,5081,5081,Whlsl,Wholesale,30
+26,5082,5082,Whlsl,Wholesale,30
+26,5083,5083,Whlsl,Wholesale,30
+26,5084,5084,Whlsl,Wholesale,30
+26,5085,5085,Whlsl,Wholesale,30
+26,5086,5087,Whlsl,Wholesale,30
+26,5088,5088,Whlsl,Wholesale,30
+26,5090,5090,Whlsl,Wholesale,30
+26,5091,5092,Whlsl,Wholesale,30
+26,5093,5093,Whlsl,Wholesale,30
+26,5094,5094,Whlsl,Wholesale,30
+26,5099,5099,Whlsl,Wholesale,30
+26,5100,5100,Whlsl,Wholesale,30
+26,5110,5113,Whlsl,Wholesale,30
+26,5120,5122,Whlsl,Wholesale,30
+26,5130,5139,Whlsl,Wholesale,30
+26,5140,5149,Whlsl,Wholesale,30
+26,5150,5159,Whlsl,Wholesale,30
+26,5160,5169,Whlsl,Wholesale,30
+26,5170,5172,Whlsl,Wholesale,30
+26,5180,5182,Whlsl,Wholesale,30
+26,5190,5199,Whlsl,Wholesale,30
+27,5200,5200,Rtail,Retail,30
+27,5210,5219,Rtail,Retail,30
+27,5220,5229,Rtail,Retail,30
+27,5230,5231,Rtail,Retail,30
+27,5250,5251,Rtail,Retail,30
+27,5260,5261,Rtail,Retail,30
+27,5270,5271,Rtail,Retail,30
+27,5300,5300,Rtail,Retail,30
+27,5310,5311,Rtail,Retail,30
+27,5320,5320,Rtail,Retail,30
+27,5330,5331,Rtail,Retail,30
+27,5334,5334,Rtail,Retail,30
+27,5340,5349,Rtail,Retail,30
+27,5390,5399,Rtail,Retail,30
+27,5400,5400,Rtail,Retail,30
+27,5410,5411,Rtail,Retail,30
+27,5412,5412,Rtail,Retail,30
+27,5420,5429,Rtail,Retail,30
+27,5430,5439,Rtail,Retail,30
+27,5440,5449,Rtail,Retail,30
+27,5450,5459,Rtail,Retail,30
+27,5460,5469,Rtail,Retail,30
+27,5490,5499,Rtail,Retail,30
+27,5500,5500,Rtail,Retail,30
+27,5510,5529,Rtail,Retail,30
+27,5530,5539,Rtail,Retail,30
+27,5540,5549,Rtail,Retail,30
+27,5550,5559,Rtail,Retail,30
+27,5560,5569,Rtail,Retail,30
+27,5570,5579,Rtail,Retail,30
+27,5590,5599,Rtail,Retail,30
+27,5600,5699,Rtail,Retail,30
+27,5700,5700,Rtail,Retail,30
+27,5710,5719,Rtail,Retail,30
+27,5720,5722,Rtail,Retail,30
+27,5730,5733,Rtail,Retail,30
+27,5734,5734,Rtail,Retail,30
+27,5735,5735,Rtail,Retail,30
+27,5736,5736,Rtail,Retail,30
+27,5750,5799,Rtail,Retail,30
+27,5900,5900,Rtail,Retail,30
+27,5910,5912,Rtail,Retail,30
+27,5920,5929,Rtail,Retail,30
+27,5930,5932,Rtail,Retail,30
+27,5940,5940,Rtail,Retail,30
+27,5941,5941,Rtail,Retail,30
+27,5942,5942,Rtail,Retail,30
+27,5943,5943,Rtail,Retail,30
+27,5944,5944,Rtail,Retail,30
+27,5945,5945,Rtail,Retail,30
+27,5946,5946,Rtail,Retail,30
+27,5947,5947,Rtail,Retail,30
+27,5948,5948,Rtail,Retail,30
+27,5949,5949,Rtail,Retail,30
+27,5950,5959,Rtail,Retail,30
+27,5960,5969,Rtail,Retail,30
+27,5970,5979,Rtail,Retail,30
+27,5980,5989,Rtail,Retail,30
+27,5990,5990,Rtail,Retail,30
+27,5992,5992,Rtail,Retail,30
+27,5993,5993,Rtail,Retail,30
+27,5994,5994,Rtail,Retail,30
+27,5995,5995,Rtail,Retail,30
+27,5999,5999,Rtail,Retail,30
+28,5800,5819,Meals,"Restaurants, Hotels, Motels",30
+28,5820,5829,Meals,"Restaurants, Hotels, Motels",30
+28,5890,5899,Meals,"Restaurants, Hotels, Motels",30
+28,7000,7000,Meals,"Restaurants, Hotels, Motels",30
+28,7010,7019,Meals,"Restaurants, Hotels, Motels",30
+28,7040,7049,Meals,"Restaurants, Hotels, Motels",30
+28,7213,7213,Meals,"Restaurants, Hotels, Motels",30
+29,6000,6000,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6010,6019,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6020,6020,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6021,6021,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6022,6022,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6023,6024,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6025,6025,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6026,6026,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6027,6027,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6028,6029,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6030,6036,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6040,6059,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6060,6062,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6080,6082,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6090,6099,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6100,6100,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6110,6111,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6112,6113,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6120,6129,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6130,6139,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6140,6149,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6150,6159,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6160,6169,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6170,6179,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6190,6199,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6200,6299,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6300,6300,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6310,6319,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6320,6329,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6330,6331,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6350,6351,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6360,6361,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6370,6379,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6390,6399,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6400,6411,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6500,6500,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6510,6510,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6512,6512,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6513,6513,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6514,6514,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6515,6515,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6517,6519,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6520,6529,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6530,6531,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6532,6532,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6540,6541,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6550,6553,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6590,6599,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6610,6611,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6700,6700,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6710,6719,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6720,6722,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6723,6723,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6724,6724,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6725,6725,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6726,6726,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6730,6733,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6740,6779,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6790,6791,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6792,6792,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6793,6793,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6794,6794,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6795,6795,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6798,6798,Fin,"Banking, Insurance, Real Estate, Trading",30
+29,6799,6799,Fin,"Banking, Insurance, Real Estate, Trading",30
+30,4950,4959,Other,Everything Else,30
+30,4960,4961,Other,Everything Else,30
+30,4970,4971,Other,Everything Else,30
+30,4990,4991,Other,Everything Else,30
+1,100,999,Agric,"Agriculture, forestry, and fishing",38
+2,1000,1299,Mines,Mining,38
+3,1300,1399,Oil,Oil and Gas Extraction,38
+4,1400,1499,Stone,Nonmetallic Minerals Except Fuels,38
+5,1500,1799,Cnstr,Construction,38
+6,2000,2099,Food,Food and Kindred Products,38
+7,2100,2199,Smoke,Tobacco Products,38
+8,2200,2299,Txtls,Textile Mill Products,38
+9,2300,2399,Apprl,Apparel and other Textile Products,38
+10,2400,2499,Wood,Lumber and Wood Products,38
+11,2500,2599,Chair,Furniture and Fixtures,38
+12,2600,2661,Paper,Paper and Allied Products,38
+13,2700,2799,Print,Printing and Publishing,38
+14,2800,2899,Chems,Chemicals and Allied Products,38
+15,2900,2999,Ptrlm,Petroleum and Coal Products,38
+16,3000,3099,Rubbr,Rubber and Miscellaneous Plastics Products,38
+17,3100,3199,Lethr,Leather and Leather Products,38
+18,3200,3299,Glass,"Stone, Clay and Glass Products",38
+19,3300,3399,Metal,Primary Metal Industries,38
+20,3400,3499,MtlPr,Fabricated Metal Products,38
+21,3500,3599,Machn,"Machinery, Except Electrical",38
+22,3600,3699,Elctr,Electrical and Electronic Equipment,38
+23,3700,3799,Cars,Transportation Equipment,38
+24,3800,3879,Instr,Instruments and Related Products,38
+25,3900,3999,Manuf,Miscellaneous Manufacturing Industries,38
+26,4000,4799,Trans,Transportation,38
+27,4800,4829,Phone,Telephone and Telegraph Communication,38
+28,4830,4899,TV,Radio and Television Broadcasting,38
+29,4900,4949,Utils,"Electric, Gas, and Water Supply",38
+30,4950,4959,Garbg,Sanitary Services,38
+31,4960,4969,Steam,Steam Supply,38
+32,4970,4979,Water,Irrigation Systems,38
+33,5000,5199,Whlsl,Wholesale,38
+34,5200,5999,Rtail,Retail Stores,38
+35,6000,6999,Money,"Finance, Insurance, and Real Estate",38
+36,7000,8999,Srvc,Services,38
+37,9000,9999,Govt,Public Administration,38
+38,-9999,-9999,Other,Almost Nothing,38
+1,100,199,Agric,Agriculture,48
+1,200,299,Agric,Agriculture,48
+1,700,799,Agric,Agriculture,48
+1,910,919,Agric,Agriculture,48
+1,2048,2048,Agric,Agriculture,48
+2,2000,2009,Food,Food Products,48
+2,2010,2019,Food,Food Products,48
+2,2020,2029,Food,Food Products,48
+2,2030,2039,Food,Food Products,48
+2,2040,2046,Food,Food Products,48
+2,2050,2059,Food,Food Products,48
+2,2060,2063,Food,Food Products,48
+2,2070,2079,Food,Food Products,48
+2,2090,2092,Food,Food Products,48
+2,2095,2095,Food,Food Products,48
+2,2098,2099,Food,Food Products,48
+3,2064,2068,Soda,Candy & Soda,48
+3,2086,2086,Soda,Candy & Soda,48
+3,2087,2087,Soda,Candy & Soda,48
+3,2096,2096,Soda,Candy & Soda,48
+3,2097,2097,Soda,Candy & Soda,48
+4,2080,2080,Beer,Beer & Liquor,48
+4,2082,2082,Beer,Beer & Liquor,48
+4,2083,2083,Beer,Beer & Liquor,48
+4,2084,2084,Beer,Beer & Liquor,48
+4,2085,2085,Beer,Beer & Liquor,48
+5,2100,2199,Smoke,Tobacco Products,48
+6,920,999,Toys,Recreation,48
+6,3650,3651,Toys,Recreation,48
+6,3652,3652,Toys,Recreation,48
+6,3732,3732,Toys,Recreation,48
+6,3930,3931,Toys,Recreation,48
+6,3940,3949,Toys,Recreation,48
+7,7800,7829,Fun,Entertainment,48
+7,7830,7833,Fun,Entertainment,48
+7,7840,7841,Fun,Entertainment,48
+7,7900,7900,Fun,Entertainment,48
+7,7910,7911,Fun,Entertainment,48
+7,7920,7929,Fun,Entertainment,48
+7,7930,7933,Fun,Entertainment,48
+7,7940,7949,Fun,Entertainment,48
+7,7980,7980,Fun,Entertainment,48
+7,7990,7999,Fun,Entertainment,48
+8,2700,2709,Books,Printing and Publishing,48
+8,2710,2719,Books,Printing and Publishing,48
+8,2720,2729,Books,Printing and Publishing,48
+8,2730,2739,Books,Printing and Publishing,48
+8,2740,2749,Books,Printing and Publishing,48
+8,2770,2771,Books,Printing and Publishing,48
+8,2780,2789,Books,Printing and Publishing,48
+8,2790,2799,Books,Printing and Publishing,48
+9,2047,2047,Hshld,Consumer Goods,48
+9,2391,2392,Hshld,Consumer Goods,48
+9,2510,2519,Hshld,Consumer Goods,48
+9,2590,2599,Hshld,Consumer Goods,48
+9,2840,2843,Hshld,Consumer Goods,48
+9,2844,2844,Hshld,Consumer Goods,48
+9,3160,3161,Hshld,Consumer Goods,48
+9,3170,3171,Hshld,Consumer Goods,48
+9,3172,3172,Hshld,Consumer Goods,48
+9,3190,3199,Hshld,Consumer Goods,48
+9,3229,3229,Hshld,Consumer Goods,48
+9,3260,3260,Hshld,Consumer Goods,48
+9,3262,3263,Hshld,Consumer Goods,48
+9,3269,3269,Hshld,Consumer Goods,48
+9,3230,3231,Hshld,Consumer Goods,48
+9,3630,3639,Hshld,Consumer Goods,48
+9,3750,3751,Hshld,Consumer Goods,48
+9,3800,3800,Hshld,Consumer Goods,48
+9,3860,3861,Hshld,Consumer Goods,48
+9,3870,3873,Hshld,Consumer Goods,48
+9,3910,3911,Hshld,Consumer Goods,48
+9,3914,3914,Hshld,Consumer Goods,48
+9,3915,3915,Hshld,Consumer Goods,48
+9,3960,3962,Hshld,Consumer Goods,48
+9,3991,3991,Hshld,Consumer Goods,48
+9,3995,3995,Hshld,Consumer Goods,48
+10,2300,2390,Clths,Apparel,48
+10,3020,3021,Clths,Apparel,48
+10,3100,3111,Clths,Apparel,48
+10,3130,3131,Clths,Apparel,48
+10,3140,3149,Clths,Apparel,48
+10,3150,3151,Clths,Apparel,48
+10,3963,3965,Clths,Apparel,48
+11,8000,8099,Hlth,Healthcare,48
+12,3693,3693,MedEq,Medical Equipment,48
+12,3840,3849,MedEq,Medical Equipment,48
+12,3850,3851,MedEq,Medical Equipment,48
+13,2830,2830,Drugs,Pharmaceutical Products,48
+13,2831,2831,Drugs,Pharmaceutical Products,48
+13,2833,2833,Drugs,Pharmaceutical Products,48
+13,2834,2834,Drugs,Pharmaceutical Products,48
+13,2835,2835,Drugs,Pharmaceutical Products,48
+13,2836,2836,Drugs,Pharmaceutical Products,48
+14,2800,2809,Chems,Chemicals,48
+14,2810,2819,Chems,Chemicals,48
+14,2820,2829,Chems,Chemicals,48
+14,2850,2859,Chems,Chemicals,48
+14,2860,2869,Chems,Chemicals,48
+14,2870,2879,Chems,Chemicals,48
+14,2890,2899,Chems,Chemicals,48
+15,3031,3031,Rubbr,Rubber and Plastic Products,48
+15,3041,3041,Rubbr,Rubber and Plastic Products,48
+15,3050,3053,Rubbr,Rubber and Plastic Products,48
+15,3060,3069,Rubbr,Rubber and Plastic Products,48
+15,3070,3079,Rubbr,Rubber and Plastic Products,48
+15,3080,3089,Rubbr,Rubber and Plastic Products,48
+15,3090,3099,Rubbr,Rubber and Plastic Products,48
+16,2200,2269,Txtls,Textiles,48
+16,2270,2279,Txtls,Textiles,48
+16,2280,2284,Txtls,Textiles,48
+16,2290,2295,Txtls,Textiles,48
+16,2297,2297,Txtls,Textiles,48
+16,2298,2298,Txtls,Textiles,48
+16,2299,2299,Txtls,Textiles,48
+16,2393,2395,Txtls,Textiles,48
+16,2397,2399,Txtls,Textiles,48
+17,800,899,BldMt,Construction Materials,48
+17,2400,2439,BldMt,Construction Materials,48
+17,2450,2459,BldMt,Construction Materials,48
+17,2490,2499,BldMt,Construction Materials,48
+17,2660,2661,BldMt,Construction Materials,48
+17,2950,2952,BldMt,Construction Materials,48
+17,3200,3200,BldMt,Construction Materials,48
+17,3210,3211,BldMt,Construction Materials,48
+17,3240,3241,BldMt,Construction Materials,48
+17,3250,3259,BldMt,Construction Materials,48
+17,3261,3261,BldMt,Construction Materials,48
+17,3264,3264,BldMt,Construction Materials,48
+17,3270,3275,BldMt,Construction Materials,48
+17,3280,3281,BldMt,Construction Materials,48
+17,3290,3293,BldMt,Construction Materials,48
+17,3295,3299,BldMt,Construction Materials,48
+17,3420,3429,BldMt,Construction Materials,48
+17,3430,3433,BldMt,Construction Materials,48
+17,3440,3441,BldMt,Construction Materials,48
+17,3442,3442,BldMt,Construction Materials,48
+17,3446,3446,BldMt,Construction Materials,48
+17,3448,3448,BldMt,Construction Materials,48
+17,3449,3449,BldMt,Construction Materials,48
+17,3450,3451,BldMt,Construction Materials,48
+17,3452,3452,BldMt,Construction Materials,48
+17,3490,3499,BldMt,Construction Materials,48
+17,3996,3996,BldMt,Construction Materials,48
+18,1500,1511,Cnstr,Construction,48
+18,1520,1529,Cnstr,Construction,48
+18,1530,1539,Cnstr,Construction,48
+18,1540,1549,Cnstr,Construction,48
+18,1600,1699,Cnstr,Construction,48
+18,1700,1799,Cnstr,Construction,48
+19,3300,3300,Steel,Steel Works Etc,48
+19,3310,3317,Steel,Steel Works Etc,48
+19,3320,3325,Steel,Steel Works Etc,48
+19,3330,3339,Steel,Steel Works Etc,48
+19,3340,3341,Steel,Steel Works Etc,48
+19,3350,3357,Steel,Steel Works Etc,48
+19,3360,3369,Steel,Steel Works Etc,48
+19,3370,3379,Steel,Steel Works Etc,48
+19,3390,3399,Steel,Steel Works Etc,48
+20,3400,3400,FabPr,Fabricated Products,48
+20,3443,3443,FabPr,Fabricated Products,48
+20,3444,3444,FabPr,Fabricated Products,48
+20,3460,3469,FabPr,Fabricated Products,48
+20,3470,3479,FabPr,Fabricated Products,48
+21,3510,3519,Mach,Machinery,48
+21,3520,3529,Mach,Machinery,48
+21,3530,3530,Mach,Machinery,48
+21,3531,3531,Mach,Machinery,48
+21,3532,3532,Mach,Machinery,48
+21,3533,3533,Mach,Machinery,48
+21,3534,3534,Mach,Machinery,48
+21,3535,3535,Mach,Machinery,48
+21,3536,3536,Mach,Machinery,48
+21,3538,3538,Mach,Machinery,48
+21,3540,3549,Mach,Machinery,48
+21,3550,3559,Mach,Machinery,48
+21,3560,3569,Mach,Machinery,48
+21,3580,3580,Mach,Machinery,48
+21,3581,3581,Mach,Machinery,48
+21,3582,3582,Mach,Machinery,48
+21,3585,3585,Mach,Machinery,48
+21,3586,3586,Mach,Machinery,48
+21,3589,3589,Mach,Machinery,48
+21,3590,3599,Mach,Machinery,48
+22,3600,3600,ElcEq,Electrical Equipment,48
+22,3610,3613,ElcEq,Electrical Equipment,48
+22,3620,3621,ElcEq,Electrical Equipment,48
+22,3623,3629,ElcEq,Electrical Equipment,48
+22,3640,3644,ElcEq,Electrical Equipment,48
+22,3645,3645,ElcEq,Electrical Equipment,48
+22,3646,3646,ElcEq,Electrical Equipment,48
+22,3648,3649,ElcEq,Electrical Equipment,48
+22,3660,3660,ElcEq,Electrical Equipment,48
+22,3690,3690,ElcEq,Electrical Equipment,48
+22,3691,3692,ElcEq,Electrical Equipment,48
+22,3699,3699,ElcEq,Electrical Equipment,48
+23,2296,2296,Autos,Automobiles and Trucks,48
+23,2396,2396,Autos,Automobiles and Trucks,48
+23,3010,3011,Autos,Automobiles and Trucks,48
+23,3537,3537,Autos,Automobiles and Trucks,48
+23,3647,3647,Autos,Automobiles and Trucks,48
+23,3694,3694,Autos,Automobiles and Trucks,48
+23,3700,3700,Autos,Automobiles and Trucks,48
+23,3710,3710,Autos,Automobiles and Trucks,48
+23,3711,3711,Autos,Automobiles and Trucks,48
+23,3713,3713,Autos,Automobiles and Trucks,48
+23,3714,3714,Autos,Automobiles and Trucks,48
+23,3715,3715,Autos,Automobiles and Trucks,48
+23,3716,3716,Autos,Automobiles and Trucks,48
+23,3792,3792,Autos,Automobiles and Trucks,48
+23,3790,3791,Autos,Automobiles and Trucks,48
+23,3799,3799,Autos,Automobiles and Trucks,48
+24,3720,3720,Aero,Aircraft,48
+24,3721,3721,Aero,Aircraft,48
+24,3723,3724,Aero,Aircraft,48
+24,3725,3725,Aero,Aircraft,48
+24,3728,3729,Aero,Aircraft,48
+25,3730,3731,Ships,"Shipbuilding, Railroad Equipment",48
+25,3740,3743,Ships,"Shipbuilding, Railroad Equipment",48
+26,3760,3769,Guns,Defense,48
+26,3795,3795,Guns,Defense,48
+26,3480,3489,Guns,Defense,48
+27,1040,1049,Gold,Precious Metals,48
+28,1000,1009,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1010,1019,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1020,1029,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1030,1039,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1050,1059,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1060,1069,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1070,1079,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1080,1089,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1090,1099,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1100,1119,Mines,Non-Metallic and Industrial Metal Mining,48
+28,1400,1499,Mines,Non-Metallic and Industrial Metal Mining,48
+29,1200,1299,Coal,Coal,48
+30,1300,1300,Oil,Petroleum and Natural Gas,48
+30,1310,1319,Oil,Petroleum and Natural Gas,48
+30,1320,1329,Oil,Petroleum and Natural Gas,48
+30,1330,1339,Oil,Petroleum and Natural Gas,48
+30,1370,1379,Oil,Petroleum and Natural Gas,48
+30,1380,1380,Oil,Petroleum and Natural Gas,48
+30,1381,1381,Oil,Petroleum and Natural Gas,48
+30,1382,1382,Oil,Petroleum and Natural Gas,48
+30,1389,1389,Oil,Petroleum and Natural Gas,48
+30,2900,2912,Oil,Petroleum and Natural Gas,48
+30,2990,2999,Oil,Petroleum and Natural Gas,48
+31,4900,4900,Util,Utilities,48
+31,4910,4911,Util,Utilities,48
+31,4920,4922,Util,Utilities,48
+31,4923,4923,Util,Utilities,48
+31,4924,4925,Util,Utilities,48
+31,4930,4931,Util,Utilities,48
+31,4932,4932,Util,Utilities,48
+31,4939,4939,Util,Utilities,48
+31,4940,4942,Util,Utilities,48
+32,4800,4800,Telcm,Communication,48
+32,4810,4813,Telcm,Communication,48
+32,4820,4822,Telcm,Communication,48
+32,4830,4839,Telcm,Communication,48
+32,4840,4841,Telcm,Communication,48
+32,4880,4889,Telcm,Communication,48
+32,4890,4890,Telcm,Communication,48
+32,4891,4891,Telcm,Communication,48
+32,4892,4892,Telcm,Communication,48
+32,4899,4899,Telcm,Communication,48
+33,7020,7021,PerSv,Personal Services,48
+33,7030,7033,PerSv,Personal Services,48
+33,7200,7200,PerSv,Personal Services,48
+33,7210,7212,PerSv,Personal Services,48
+33,7214,7214,PerSv,Personal Services,48
+33,7215,7216,PerSv,Personal Services,48
+33,7217,7217,PerSv,Personal Services,48
+33,7219,7219,PerSv,Personal Services,48
+33,7220,7221,PerSv,Personal Services,48
+33,7230,7231,PerSv,Personal Services,48
+33,7240,7241,PerSv,Personal Services,48
+33,7250,7251,PerSv,Personal Services,48
+33,7260,7269,PerSv,Personal Services,48
+33,7270,7290,PerSv,Personal Services,48
+33,7291,7291,PerSv,Personal Services,48
+33,7292,7299,PerSv,Personal Services,48
+33,7395,7395,PerSv,Personal Services,48
+33,7500,7500,PerSv,Personal Services,48
+33,7520,7529,PerSv,Personal Services,48
+33,7530,7539,PerSv,Personal Services,48
+33,7540,7549,PerSv,Personal Services,48
+33,7600,7600,PerSv,Personal Services,48
+33,7620,7620,PerSv,Personal Services,48
+33,7622,7622,PerSv,Personal Services,48
+33,7623,7623,PerSv,Personal Services,48
+33,7629,7629,PerSv,Personal Services,48
+33,7630,7631,PerSv,Personal Services,48
+33,7640,7641,PerSv,Personal Services,48
+33,7690,7699,PerSv,Personal Services,48
+33,8100,8199,PerSv,Personal Services,48
+33,8200,8299,PerSv,Personal Services,48
+33,8300,8399,PerSv,Personal Services,48
+33,8400,8499,PerSv,Personal Services,48
+33,8600,8699,PerSv,Personal Services,48
+33,8800,8899,PerSv,Personal Services,48
+33,7510,7515,PerSv,Personal Services,48
+34,2750,2759,BusSv,Business Services,48
+34,3993,3993,BusSv,Business Services,48
+34,7218,7218,BusSv,Business Services,48
+34,7300,7300,BusSv,Business Services,48
+34,7310,7319,BusSv,Business Services,48
+34,7320,7329,BusSv,Business Services,48
+34,7330,7339,BusSv,Business Services,48
+34,7340,7342,BusSv,Business Services,48
+34,7349,7349,BusSv,Business Services,48
+34,7350,7351,BusSv,Business Services,48
+34,7352,7352,BusSv,Business Services,48
+34,7353,7353,BusSv,Business Services,48
+34,7359,7359,BusSv,Business Services,48
+34,7360,7369,BusSv,Business Services,48
+34,7370,7372,BusSv,Business Services,48
+34,7374,7374,BusSv,Business Services,48
+34,7375,7375,BusSv,Business Services,48
+34,7376,7376,BusSv,Business Services,48
+34,7377,7377,BusSv,Business Services,48
+34,7378,7378,BusSv,Business Services,48
+34,7379,7379,BusSv,Business Services,48
+34,7380,7380,BusSv,Business Services,48
+34,7381,7382,BusSv,Business Services,48
+34,7383,7383,BusSv,Business Services,48
+34,7384,7384,BusSv,Business Services,48
+34,7385,7385,BusSv,Business Services,48
+34,7389,7390,BusSv,Business Services,48
+34,7391,7391,BusSv,Business Services,48
+34,7392,7392,BusSv,Business Services,48
+34,7393,7393,BusSv,Business Services,48
+34,7394,7394,BusSv,Business Services,48
+34,7396,7396,BusSv,Business Services,48
+34,7397,7397,BusSv,Business Services,48
+34,7399,7399,BusSv,Business Services,48
+34,7519,7519,BusSv,Business Services,48
+34,8700,8700,BusSv,Business Services,48
+34,8710,8713,BusSv,Business Services,48
+34,8720,8721,BusSv,Business Services,48
+34,8730,8734,BusSv,Business Services,48
+34,8740,8748,BusSv,Business Services,48
+34,8900,8910,BusSv,Business Services,48
+34,8911,8911,BusSv,Business Services,48
+34,8920,8999,BusSv,Business Services,48
+34,4220,4229,BusSv,Business Services,48
+35,3570,3579,Comps,Computers,48
+35,3680,3680,Comps,Computers,48
+35,3681,3681,Comps,Computers,48
+35,3682,3682,Comps,Computers,48
+35,3683,3683,Comps,Computers,48
+35,3684,3684,Comps,Computers,48
+35,3685,3685,Comps,Computers,48
+35,3686,3686,Comps,Computers,48
+35,3687,3687,Comps,Computers,48
+35,3688,3688,Comps,Computers,48
+35,3689,3689,Comps,Computers,48
+35,3695,3695,Comps,Computers,48
+35,7373,7373,Comps,Computers,48
+36,3622,3622,Chips,Electronic Equipment,48
+36,3661,3661,Chips,Electronic Equipment,48
+36,3662,3662,Chips,Electronic Equipment,48
+36,3663,3663,Chips,Electronic Equipment,48
+36,3664,3664,Chips,Electronic Equipment,48
+36,3665,3665,Chips,Electronic Equipment,48
+36,3666,3666,Chips,Electronic Equipment,48
+36,3669,3669,Chips,Electronic Equipment,48
+36,3670,3679,Chips,Electronic Equipment,48
+36,3810,3810,Chips,Electronic Equipment,48
+36,3812,3812,Chips,Electronic Equipment,48
+37,3811,3811,LabEq,Measuring and Control Equipment,48
+37,3820,3820,LabEq,Measuring and Control Equipment,48
+37,3821,3821,LabEq,Measuring and Control Equipment,48
+37,3822,3822,LabEq,Measuring and Control Equipment,48
+37,3823,3823,LabEq,Measuring and Control Equipment,48
+37,3824,3824,LabEq,Measuring and Control Equipment,48
+37,3825,3825,LabEq,Measuring and Control Equipment,48
+37,3826,3826,LabEq,Measuring and Control Equipment,48
+37,3827,3827,LabEq,Measuring and Control Equipment,48
+37,3829,3829,LabEq,Measuring and Control Equipment,48
+37,3830,3839,LabEq,Measuring and Control Equipment,48
+38,2520,2549,Paper,Business Supplies,48
+38,2600,2639,Paper,Business Supplies,48
+38,2670,2699,Paper,Business Supplies,48
+38,2760,2761,Paper,Business Supplies,48
+38,3950,3955,Paper,Business Supplies,48
+39,2440,2449,Boxes,Shipping Containers,48
+39,2640,2659,Boxes,Shipping Containers,48
+39,3220,3221,Boxes,Shipping Containers,48
+39,3410,3412,Boxes,Shipping Containers,48
+40,4000,4013,Trans,Transportation,48
+40,4040,4049,Trans,Transportation,48
+40,4100,4100,Trans,Transportation,48
+40,4110,4119,Trans,Transportation,48
+40,4120,4121,Trans,Transportation,48
+40,4130,4131,Trans,Transportation,48
+40,4140,4142,Trans,Transportation,48
+40,4150,4151,Trans,Transportation,48
+40,4170,4173,Trans,Transportation,48
+40,4190,4199,Trans,Transportation,48
+40,4200,4200,Trans,Transportation,48
+40,4210,4219,Trans,Transportation,48
+40,4230,4231,Trans,Transportation,48
+40,4240,4249,Trans,Transportation,48
+40,4400,4499,Trans,Transportation,48
+40,4500,4599,Trans,Transportation,48
+40,4600,4699,Trans,Transportation,48
+40,4700,4700,Trans,Transportation,48
+40,4710,4712,Trans,Transportation,48
+40,4720,4729,Trans,Transportation,48
+40,4730,4739,Trans,Transportation,48
+40,4740,4749,Trans,Transportation,48
+40,4780,4780,Trans,Transportation,48
+40,4782,4782,Trans,Transportation,48
+40,4783,4783,Trans,Transportation,48
+40,4784,4784,Trans,Transportation,48
+40,4785,4785,Trans,Transportation,48
+40,4789,4789,Trans,Transportation,48
+41,5000,5000,Whlsl,Wholesale,48
+41,5010,5015,Whlsl,Wholesale,48
+41,5020,5023,Whlsl,Wholesale,48
+41,5030,5039,Whlsl,Wholesale,48
+41,5040,5042,Whlsl,Wholesale,48
+41,5043,5043,Whlsl,Wholesale,48
+41,5044,5044,Whlsl,Wholesale,48
+41,5045,5045,Whlsl,Wholesale,48
+41,5046,5046,Whlsl,Wholesale,48
+41,5047,5047,Whlsl,Wholesale,48
+41,5048,5048,Whlsl,Wholesale,48
+41,5049,5049,Whlsl,Wholesale,48
+41,5050,5059,Whlsl,Wholesale,48
+41,5060,5060,Whlsl,Wholesale,48
+41,5063,5063,Whlsl,Wholesale,48
+41,5064,5064,Whlsl,Wholesale,48
+41,5065,5065,Whlsl,Wholesale,48
+41,5070,5078,Whlsl,Wholesale,48
+41,5080,5080,Whlsl,Wholesale,48
+41,5081,5081,Whlsl,Wholesale,48
+41,5082,5082,Whlsl,Wholesale,48
+41,5083,5083,Whlsl,Wholesale,48
+41,5084,5084,Whlsl,Wholesale,48
+41,5085,5085,Whlsl,Wholesale,48
+41,5086,5087,Whlsl,Wholesale,48
+41,5088,5088,Whlsl,Wholesale,48
+41,5090,5090,Whlsl,Wholesale,48
+41,5091,5092,Whlsl,Wholesale,48
+41,5093,5093,Whlsl,Wholesale,48
+41,5094,5094,Whlsl,Wholesale,48
+41,5099,5099,Whlsl,Wholesale,48
+41,5100,5100,Whlsl,Wholesale,48
+41,5110,5113,Whlsl,Wholesale,48
+41,5120,5122,Whlsl,Wholesale,48
+41,5130,5139,Whlsl,Wholesale,48
+41,5140,5149,Whlsl,Wholesale,48
+41,5150,5159,Whlsl,Wholesale,48
+41,5160,5169,Whlsl,Wholesale,48
+41,5170,5172,Whlsl,Wholesale,48
+41,5180,5182,Whlsl,Wholesale,48
+41,5190,5199,Whlsl,Wholesale,48
+42,5200,5200,Rtail,Retail,48
+42,5210,5219,Rtail,Retail,48
+42,5220,5229,Rtail,Retail,48
+42,5230,5231,Rtail,Retail,48
+42,5250,5251,Rtail,Retail,48
+42,5260,5261,Rtail,Retail,48
+42,5270,5271,Rtail,Retail,48
+42,5300,5300,Rtail,Retail,48
+42,5310,5311,Rtail,Retail,48
+42,5320,5320,Rtail,Retail,48
+42,5330,5331,Rtail,Retail,48
+42,5334,5334,Rtail,Retail,48
+42,5340,5349,Rtail,Retail,48
+42,5390,5399,Rtail,Retail,48
+42,5400,5400,Rtail,Retail,48
+42,5410,5411,Rtail,Retail,48
+42,5412,5412,Rtail,Retail,48
+42,5420,5429,Rtail,Retail,48
+42,5430,5439,Rtail,Retail,48
+42,5440,5449,Rtail,Retail,48
+42,5450,5459,Rtail,Retail,48
+42,5460,5469,Rtail,Retail,48
+42,5490,5499,Rtail,Retail,48
+42,5500,5500,Rtail,Retail,48
+42,5510,5529,Rtail,Retail,48
+42,5530,5539,Rtail,Retail,48
+42,5540,5549,Rtail,Retail,48
+42,5550,5559,Rtail,Retail,48
+42,5560,5569,Rtail,Retail,48
+42,5570,5579,Rtail,Retail,48
+42,5590,5599,Rtail,Retail,48
+42,5600,5699,Rtail,Retail,48
+42,5700,5700,Rtail,Retail,48
+42,5710,5719,Rtail,Retail,48
+42,5720,5722,Rtail,Retail,48
+42,5730,5733,Rtail,Retail,48
+42,5734,5734,Rtail,Retail,48
+42,5735,5735,Rtail,Retail,48
+42,5736,5736,Rtail,Retail,48
+42,5750,5799,Rtail,Retail,48
+42,5900,5900,Rtail,Retail,48
+42,5910,5912,Rtail,Retail,48
+42,5920,5929,Rtail,Retail,48
+42,5930,5932,Rtail,Retail,48
+42,5940,5940,Rtail,Retail,48
+42,5941,5941,Rtail,Retail,48
+42,5942,5942,Rtail,Retail,48
+42,5943,5943,Rtail,Retail,48
+42,5944,5944,Rtail,Retail,48
+42,5945,5945,Rtail,Retail,48
+42,5946,5946,Rtail,Retail,48
+42,5947,5947,Rtail,Retail,48
+42,5948,5948,Rtail,Retail,48
+42,5949,5949,Rtail,Retail,48
+42,5950,5959,Rtail,Retail,48
+42,5960,5969,Rtail,Retail,48
+42,5970,5979,Rtail,Retail,48
+42,5980,5989,Rtail,Retail,48
+42,5990,5990,Rtail,Retail,48
+42,5992,5992,Rtail,Retail,48
+42,5993,5993,Rtail,Retail,48
+42,5994,5994,Rtail,Retail,48
+42,5995,5995,Rtail,Retail,48
+42,5999,5999,Rtail,Retail,48
+43,5800,5819,Meals,"Restaurants, Hotels, Motels",48
+43,5820,5829,Meals,"Restaurants, Hotels, Motels",48
+43,5890,5899,Meals,"Restaurants, Hotels, Motels",48
+43,7000,7000,Meals,"Restaurants, Hotels, Motels",48
+43,7010,7019,Meals,"Restaurants, Hotels, Motels",48
+43,7040,7049,Meals,"Restaurants, Hotels, Motels",48
+43,7213,7213,Meals,"Restaurants, Hotels, Motels",48
+44,6000,6000,Banks,Banking,48
+44,6010,6019,Banks,Banking,48
+44,6020,6020,Banks,Banking,48
+44,6021,6021,Banks,Banking,48
+44,6022,6022,Banks,Banking,48
+44,6023,6024,Banks,Banking,48
+44,6025,6025,Banks,Banking,48
+44,6026,6026,Banks,Banking,48
+44,6027,6027,Banks,Banking,48
+44,6028,6029,Banks,Banking,48
+44,6030,6036,Banks,Banking,48
+44,6040,6059,Banks,Banking,48
+44,6060,6062,Banks,Banking,48
+44,6080,6082,Banks,Banking,48
+44,6090,6099,Banks,Banking,48
+44,6100,6100,Banks,Banking,48
+44,6110,6111,Banks,Banking,48
+44,6112,6113,Banks,Banking,48
+44,6120,6129,Banks,Banking,48
+44,6130,6139,Banks,Banking,48
+44,6140,6149,Banks,Banking,48
+44,6150,6159,Banks,Banking,48
+44,6160,6169,Banks,Banking,48
+44,6170,6179,Banks,Banking,48
+44,6190,6199,Banks,Banking,48
+45,6300,6300,Insur,Insurance,48
+45,6310,6319,Insur,Insurance,48
+45,6320,6329,Insur,Insurance,48
+45,6330,6331,Insur,Insurance,48
+45,6350,6351,Insur,Insurance,48
+45,6360,6361,Insur,Insurance,48
+45,6370,6379,Insur,Insurance,48
+45,6390,6399,Insur,Insurance,48
+45,6400,6411,Insur,Insurance,48
+46,6500,6500,RlEst,Real Estate,48
+46,6510,6510,RlEst,Real Estate,48
+46,6512,6512,RlEst,Real Estate,48
+46,6513,6513,RlEst,Real Estate,48
+46,6514,6514,RlEst,Real Estate,48
+46,6515,6515,RlEst,Real Estate,48
+46,6517,6519,RlEst,Real Estate,48
+46,6520,6529,RlEst,Real Estate,48
+46,6530,6531,RlEst,Real Estate,48
+46,6532,6532,RlEst,Real Estate,48
+46,6540,6541,RlEst,Real Estate,48
+46,6550,6553,RlEst,Real Estate,48
+46,6590,6599,RlEst,Real Estate,48
+46,6610,6611,RlEst,Real Estate,48
+47,6200,6299,Fin,Trading,48
+47,6700,6700,Fin,Trading,48
+47,6710,6719,Fin,Trading,48
+47,6720,6722,Fin,Trading,48
+47,6723,6723,Fin,Trading,48
+47,6724,6724,Fin,Trading,48
+47,6725,6725,Fin,Trading,48
+47,6726,6726,Fin,Trading,48
+47,6730,6733,Fin,Trading,48
+47,6740,6779,Fin,Trading,48
+47,6790,6791,Fin,Trading,48
+47,6792,6792,Fin,Trading,48
+47,6793,6793,Fin,Trading,48
+47,6794,6794,Fin,Trading,48
+47,6795,6795,Fin,Trading,48
+47,6798,6798,Fin,Trading,48
+47,6799,6799,Fin,Trading,48
+48,4950,4959,Other,Almost Nothing,48
+48,4960,4961,Other,Almost Nothing,48
+48,4970,4971,Other,Almost Nothing,48
+48,4990,4991,Other,Almost Nothing,48
+1,100,199,Agric,Agriculture,49
+1,200,299,Agric,Agriculture,49
+1,700,799,Agric,Agriculture,49
+1,910,919,Agric,Agriculture,49
+1,2048,2048,Agric,Agriculture,49
+2,2000,2009,Food,Food Products,49
+2,2010,2019,Food,Food Products,49
+2,2020,2029,Food,Food Products,49
+2,2030,2039,Food,Food Products,49
+2,2040,2046,Food,Food Products,49
+2,2050,2059,Food,Food Products,49
+2,2060,2063,Food,Food Products,49
+2,2070,2079,Food,Food Products,49
+2,2090,2092,Food,Food Products,49
+2,2095,2095,Food,Food Products,49
+2,2098,2099,Food,Food Products,49
+3,2064,2068,Soda,Candy & Soda,49
+3,2086,2086,Soda,Candy & Soda,49
+3,2087,2087,Soda,Candy & Soda,49
+3,2096,2096,Soda,Candy & Soda,49
+3,2097,2097,Soda,Candy & Soda,49
+4,2080,2080,Beer,Beer & Liquor,49
+4,2082,2082,Beer,Beer & Liquor,49
+4,2083,2083,Beer,Beer & Liquor,49
+4,2084,2084,Beer,Beer & Liquor,49
+4,2085,2085,Beer,Beer & Liquor,49
+5,2100,2199,Smoke,Tobacco Products,49
+6,920,999,Toys,Recreation,49
+6,3650,3651,Toys,Recreation,49
+6,3652,3652,Toys,Recreation,49
+6,3732,3732,Toys,Recreation,49
+6,3930,3931,Toys,Recreation,49
+6,3940,3949,Toys,Recreation,49
+7,7800,7829,Fun,Entertainment,49
+7,7830,7833,Fun,Entertainment,49
+7,7840,7841,Fun,Entertainment,49
+7,7900,7900,Fun,Entertainment,49
+7,7910,7911,Fun,Entertainment,49
+7,7920,7929,Fun,Entertainment,49
+7,7930,7933,Fun,Entertainment,49
+7,7940,7949,Fun,Entertainment,49
+7,7980,7980,Fun,Entertainment,49
+7,7990,7999,Fun,Entertainment,49
+8,2700,2709,Books,Printing and Publishing,49
+8,2710,2719,Books,Printing and Publishing,49
+8,2720,2729,Books,Printing and Publishing,49
+8,2730,2739,Books,Printing and Publishing,49
+8,2740,2749,Books,Printing and Publishing,49
+8,2770,2771,Books,Printing and Publishing,49
+8,2780,2789,Books,Printing and Publishing,49
+8,2790,2799,Books,Printing and Publishing,49
+9,2047,2047,Hshld,Consumer Goods,49
+9,2391,2392,Hshld,Consumer Goods,49
+9,2510,2519,Hshld,Consumer Goods,49
+9,2590,2599,Hshld,Consumer Goods,49
+9,2840,2843,Hshld,Consumer Goods,49
+9,2844,2844,Hshld,Consumer Goods,49
+9,3160,3161,Hshld,Consumer Goods,49
+9,3170,3171,Hshld,Consumer Goods,49
+9,3172,3172,Hshld,Consumer Goods,49
+9,3190,3199,Hshld,Consumer Goods,49
+9,3229,3229,Hshld,Consumer Goods,49
+9,3260,3260,Hshld,Consumer Goods,49
+9,3262,3263,Hshld,Consumer Goods,49
+9,3269,3269,Hshld,Consumer Goods,49
+9,3230,3231,Hshld,Consumer Goods,49
+9,3630,3639,Hshld,Consumer Goods,49
+9,3750,3751,Hshld,Consumer Goods,49
+9,3800,3800,Hshld,Consumer Goods,49
+9,3860,3861,Hshld,Consumer Goods,49
+9,3870,3873,Hshld,Consumer Goods,49
+9,3910,3911,Hshld,Consumer Goods,49
+9,3914,3914,Hshld,Consumer Goods,49
+9,3915,3915,Hshld,Consumer Goods,49
+9,3960,3962,Hshld,Consumer Goods,49
+9,3991,3991,Hshld,Consumer Goods,49
+9,3995,3995,Hshld,Consumer Goods,49
+10,2300,2390,Clths,Apparel,49
+10,3020,3021,Clths,Apparel,49
+10,3100,3111,Clths,Apparel,49
+10,3130,3131,Clths,Apparel,49
+10,3140,3149,Clths,Apparel,49
+10,3150,3151,Clths,Apparel,49
+10,3963,3965,Clths,Apparel,49
+11,8000,8099,Hlth,Healthcare,49
+12,3693,3693,MedEq,Medical Equipment,49
+12,3840,3849,MedEq,Medical Equipment,49
+12,3850,3851,MedEq,Medical Equipment,49
+13,2830,2830,Drugs,Pharmaceutical Products,49
+13,2831,2831,Drugs,Pharmaceutical Products,49
+13,2833,2833,Drugs,Pharmaceutical Products,49
+13,2834,2834,Drugs,Pharmaceutical Products,49
+13,2835,2835,Drugs,Pharmaceutical Products,49
+13,2836,2836,Drugs,Pharmaceutical Products,49
+14,2800,2809,Chems,Chemicals,49
+14,2810,2819,Chems,Chemicals,49
+14,2820,2829,Chems,Chemicals,49
+14,2850,2859,Chems,Chemicals,49
+14,2860,2869,Chems,Chemicals,49
+14,2870,2879,Chems,Chemicals,49
+14,2890,2899,Chems,Chemicals,49
+15,3031,3031,Rubbr,Rubber and Plastic Products,49
+15,3041,3041,Rubbr,Rubber and Plastic Products,49
+15,3050,3053,Rubbr,Rubber and Plastic Products,49
+15,3060,3069,Rubbr,Rubber and Plastic Products,49
+15,3070,3079,Rubbr,Rubber and Plastic Products,49
+15,3080,3089,Rubbr,Rubber and Plastic Products,49
+15,3090,3099,Rubbr,Rubber and Plastic Products,49
+16,2200,2269,Txtls,Textiles,49
+16,2270,2279,Txtls,Textiles,49
+16,2280,2284,Txtls,Textiles,49
+16,2290,2295,Txtls,Textiles,49
+16,2297,2297,Txtls,Textiles,49
+16,2298,2298,Txtls,Textiles,49
+16,2299,2299,Txtls,Textiles,49
+16,2393,2395,Txtls,Textiles,49
+16,2397,2399,Txtls,Textiles,49
+17,800,899,BldMt,Construction Materials,49
+17,2400,2439,BldMt,Construction Materials,49
+17,2450,2459,BldMt,Construction Materials,49
+17,2490,2499,BldMt,Construction Materials,49
+17,2660,2661,BldMt,Construction Materials,49
+17,2950,2952,BldMt,Construction Materials,49
+17,3200,3200,BldMt,Construction Materials,49
+17,3210,3211,BldMt,Construction Materials,49
+17,3240,3241,BldMt,Construction Materials,49
+17,3250,3259,BldMt,Construction Materials,49
+17,3261,3261,BldMt,Construction Materials,49
+17,3264,3264,BldMt,Construction Materials,49
+17,3270,3275,BldMt,Construction Materials,49
+17,3280,3281,BldMt,Construction Materials,49
+17,3290,3293,BldMt,Construction Materials,49
+17,3295,3299,BldMt,Construction Materials,49
+17,3420,3429,BldMt,Construction Materials,49
+17,3430,3433,BldMt,Construction Materials,49
+17,3440,3441,BldMt,Construction Materials,49
+17,3442,3442,BldMt,Construction Materials,49
+17,3446,3446,BldMt,Construction Materials,49
+17,3448,3448,BldMt,Construction Materials,49
+17,3449,3449,BldMt,Construction Materials,49
+17,3450,3451,BldMt,Construction Materials,49
+17,3452,3452,BldMt,Construction Materials,49
+17,3490,3499,BldMt,Construction Materials,49
+17,3996,3996,BldMt,Construction Materials,49
+18,1500,1511,Cnstr,Construction,49
+18,1520,1529,Cnstr,Construction,49
+18,1530,1539,Cnstr,Construction,49
+18,1540,1549,Cnstr,Construction,49
+18,1600,1699,Cnstr,Construction,49
+18,1700,1799,Cnstr,Construction,49
+19,3300,3300,Steel,Steel Works Etc,49
+19,3310,3317,Steel,Steel Works Etc,49
+19,3320,3325,Steel,Steel Works Etc,49
+19,3330,3339,Steel,Steel Works Etc,49
+19,3340,3341,Steel,Steel Works Etc,49
+19,3350,3357,Steel,Steel Works Etc,49
+19,3360,3369,Steel,Steel Works Etc,49
+19,3370,3379,Steel,Steel Works Etc,49
+19,3390,3399,Steel,Steel Works Etc,49
+20,3400,3400,FabPr,Fabricated Products,49
+20,3443,3443,FabPr,Fabricated Products,49
+20,3444,3444,FabPr,Fabricated Products,49
+20,3460,3469,FabPr,Fabricated Products,49
+20,3470,3479,FabPr,Fabricated Products,49
+21,3510,3519,Mach,Machinery,49
+21,3520,3529,Mach,Machinery,49
+21,3530,3530,Mach,Machinery,49
+21,3531,3531,Mach,Machinery,49
+21,3532,3532,Mach,Machinery,49
+21,3533,3533,Mach,Machinery,49
+21,3534,3534,Mach,Machinery,49
+21,3535,3535,Mach,Machinery,49
+21,3536,3536,Mach,Machinery,49
+21,3538,3538,Mach,Machinery,49
+21,3540,3549,Mach,Machinery,49
+21,3550,3559,Mach,Machinery,49
+21,3560,3569,Mach,Machinery,49
+21,3580,3580,Mach,Machinery,49
+21,3581,3581,Mach,Machinery,49
+21,3582,3582,Mach,Machinery,49
+21,3585,3585,Mach,Machinery,49
+21,3586,3586,Mach,Machinery,49
+21,3589,3589,Mach,Machinery,49
+21,3590,3599,Mach,Machinery,49
+22,3600,3600,ElcEq,Electrical Equipment,49
+22,3610,3613,ElcEq,Electrical Equipment,49
+22,3620,3621,ElcEq,Electrical Equipment,49
+22,3623,3629,ElcEq,Electrical Equipment,49
+22,3640,3644,ElcEq,Electrical Equipment,49
+22,3645,3645,ElcEq,Electrical Equipment,49
+22,3646,3646,ElcEq,Electrical Equipment,49
+22,3648,3649,ElcEq,Electrical Equipment,49
+22,3660,3660,ElcEq,Electrical Equipment,49
+22,3690,3690,ElcEq,Electrical Equipment,49
+22,3691,3692,ElcEq,Electrical Equipment,49
+22,3699,3699,ElcEq,Electrical Equipment,49
+23,2296,2296,Autos,Automobiles and Trucks,49
+23,2396,2396,Autos,Automobiles and Trucks,49
+23,3010,3011,Autos,Automobiles and Trucks,49
+23,3537,3537,Autos,Automobiles and Trucks,49
+23,3647,3647,Autos,Automobiles and Trucks,49
+23,3694,3694,Autos,Automobiles and Trucks,49
+23,3700,3700,Autos,Automobiles and Trucks,49
+23,3710,3710,Autos,Automobiles and Trucks,49
+23,3711,3711,Autos,Automobiles and Trucks,49
+23,3713,3713,Autos,Automobiles and Trucks,49
+23,3714,3714,Autos,Automobiles and Trucks,49
+23,3715,3715,Autos,Automobiles and Trucks,49
+23,3716,3716,Autos,Automobiles and Trucks,49
+23,3792,3792,Autos,Automobiles and Trucks,49
+23,3790,3791,Autos,Automobiles and Trucks,49
+23,3799,3799,Autos,Automobiles and Trucks,49
+24,3720,3720,Aero,Aircraft,49
+24,3721,3721,Aero,Aircraft,49
+24,3723,3724,Aero,Aircraft,49
+24,3725,3725,Aero,Aircraft,49
+24,3728,3729,Aero,Aircraft,49
+25,3730,3731,Ships,"Shipbuilding, Railroad Equipment",49
+25,3740,3743,Ships,"Shipbuilding, Railroad Equipment",49
+26,3760,3769,Guns,Defense,49
+26,3795,3795,Guns,Defense,49
+26,3480,3489,Guns,Defense,49
+27,1040,1049,Gold,Precious Metals,49
+28,1000,1009,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1010,1019,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1020,1029,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1030,1039,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1050,1059,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1060,1069,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1070,1079,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1080,1089,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1090,1099,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1100,1119,Mines,Non-Metallic and Industrial Metal Mining,49
+28,1400,1499,Mines,Non-Metallic and Industrial Metal Mining,49
+29,1200,1299,Coal,Coal,49
+30,1300,1300,Oil,Petroleum and Natural Gas,49
+30,1310,1319,Oil,Petroleum and Natural Gas,49
+30,1320,1329,Oil,Petroleum and Natural Gas,49
+30,1330,1339,Oil,Petroleum and Natural Gas,49
+30,1370,1379,Oil,Petroleum and Natural Gas,49
+30,1380,1380,Oil,Petroleum and Natural Gas,49
+30,1381,1381,Oil,Petroleum and Natural Gas,49
+30,1382,1382,Oil,Petroleum and Natural Gas,49
+30,1389,1389,Oil,Petroleum and Natural Gas,49
+30,2900,2912,Oil,Petroleum and Natural Gas,49
+30,2990,2999,Oil,Petroleum and Natural Gas,49
+31,4900,4900,Util,Utilities,49
+31,4910,4911,Util,Utilities,49
+31,4920,4922,Util,Utilities,49
+31,4923,4923,Util,Utilities,49
+31,4924,4925,Util,Utilities,49
+31,4930,4931,Util,Utilities,49
+31,4932,4932,Util,Utilities,49
+31,4939,4939,Util,Utilities,49
+31,4940,4942,Util,Utilities,49
+32,4800,4800,Telcm,Communication,49
+32,4810,4813,Telcm,Communication,49
+32,4820,4822,Telcm,Communication,49
+32,4830,4839,Telcm,Communication,49
+32,4840,4841,Telcm,Communication,49
+32,4880,4889,Telcm,Communication,49
+32,4890,4890,Telcm,Communication,49
+32,4891,4891,Telcm,Communication,49
+32,4892,4892,Telcm,Communication,49
+32,4899,4899,Telcm,Communication,49
+33,7020,7021,PerSv,Personal Services,49
+33,7030,7033,PerSv,Personal Services,49
+33,7200,7200,PerSv,Personal Services,49
+33,7210,7212,PerSv,Personal Services,49
+33,7214,7214,PerSv,Personal Services,49
+33,7215,7216,PerSv,Personal Services,49
+33,7217,7217,PerSv,Personal Services,49
+33,7219,7219,PerSv,Personal Services,49
+33,7220,7221,PerSv,Personal Services,49
+33,7230,7231,PerSv,Personal Services,49
+33,7240,7241,PerSv,Personal Services,49
+33,7250,7251,PerSv,Personal Services,49
+33,7260,7269,PerSv,Personal Services,49
+33,7270,7290,PerSv,Personal Services,49
+33,7291,7291,PerSv,Personal Services,49
+33,7292,7299,PerSv,Personal Services,49
+33,7395,7395,PerSv,Personal Services,49
+33,7500,7500,PerSv,Personal Services,49
+33,7520,7529,PerSv,Personal Services,49
+33,7530,7539,PerSv,Personal Services,49
+33,7540,7549,PerSv,Personal Services,49
+33,7600,7600,PerSv,Personal Services,49
+33,7620,7620,PerSv,Personal Services,49
+33,7622,7622,PerSv,Personal Services,49
+33,7623,7623,PerSv,Personal Services,49
+33,7629,7629,PerSv,Personal Services,49
+33,7630,7631,PerSv,Personal Services,49
+33,7640,7641,PerSv,Personal Services,49
+33,7690,7699,PerSv,Personal Services,49
+33,8100,8199,PerSv,Personal Services,49
+33,8200,8299,PerSv,Personal Services,49
+33,8300,8399,PerSv,Personal Services,49
+33,8400,8499,PerSv,Personal Services,49
+33,8600,8699,PerSv,Personal Services,49
+33,8800,8899,PerSv,Personal Services,49
+33,7510,7515,PerSv,Personal Services,49
+34,2750,2759,BusSv,Business Services,49
+34,3993,3993,BusSv,Business Services,49
+34,7218,7218,BusSv,Business Services,49
+34,7300,7300,BusSv,Business Services,49
+34,7310,7319,BusSv,Business Services,49
+34,7320,7329,BusSv,Business Services,49
+34,7330,7339,BusSv,Business Services,49
+34,7340,7342,BusSv,Business Services,49
+34,7349,7349,BusSv,Business Services,49
+34,7350,7351,BusSv,Business Services,49
+34,7352,7352,BusSv,Business Services,49
+34,7353,7353,BusSv,Business Services,49
+34,7359,7359,BusSv,Business Services,49
+34,7360,7369,BusSv,Business Services,49
+34,7374,7374,BusSv,Business Services,49
+34,7376,7376,BusSv,Business Services,49
+34,7377,7377,BusSv,Business Services,49
+34,7378,7378,BusSv,Business Services,49
+34,7379,7379,BusSv,Business Services,49
+34,7380,7380,BusSv,Business Services,49
+34,7381,7382,BusSv,Business Services,49
+34,7383,7383,BusSv,Business Services,49
+34,7384,7384,BusSv,Business Services,49
+34,7385,7385,BusSv,Business Services,49
+34,7389,7390,BusSv,Business Services,49
+34,7391,7391,BusSv,Business Services,49
+34,7392,7392,BusSv,Business Services,49
+34,7393,7393,BusSv,Business Services,49
+34,7394,7394,BusSv,Business Services,49
+34,7396,7396,BusSv,Business Services,49
+34,7397,7397,BusSv,Business Services,49
+34,7399,7399,BusSv,Business Services,49
+34,7519,7519,BusSv,Business Services,49
+34,8700,8700,BusSv,Business Services,49
+34,8710,8713,BusSv,Business Services,49
+34,8720,8721,BusSv,Business Services,49
+34,8730,8734,BusSv,Business Services,49
+34,8740,8748,BusSv,Business Services,49
+34,8900,8910,BusSv,Business Services,49
+34,8911,8911,BusSv,Business Services,49
+34,8920,8999,BusSv,Business Services,49
+34,4220,4229,BusSv,Business Services,49
+35,3570,3579,Hardw,Computers,49
+35,3680,3680,Hardw,Computers,49
+35,3681,3681,Hardw,Computers,49
+35,3682,3682,Hardw,Computers,49
+35,3683,3683,Hardw,Computers,49
+35,3684,3684,Hardw,Computers,49
+35,3685,3685,Hardw,Computers,49
+35,3686,3686,Hardw,Computers,49
+35,3687,3687,Hardw,Computers,49
+35,3688,3688,Hardw,Computers,49
+35,3689,3689,Hardw,Computers,49
+35,3695,3695,Hardw,Computers,49
+36,7370,7372,Softw,Computer Software,49
+36,7375,7375,Softw,Computer Software,49
+36,7373,7373,Softw,Computer Software,49
+37,3622,3622,Chips,Electronic Equipment,49
+37,3661,3661,Chips,Electronic Equipment,49
+37,3662,3662,Chips,Electronic Equipment,49
+37,3663,3663,Chips,Electronic Equipment,49
+37,3664,3664,Chips,Electronic Equipment,49
+37,3665,3665,Chips,Electronic Equipment,49
+37,3666,3666,Chips,Electronic Equipment,49
+37,3669,3669,Chips,Electronic Equipment,49
+37,3670,3679,Chips,Electronic Equipment,49
+37,3810,3810,Chips,Electronic Equipment,49
+37,3812,3812,Chips,Electronic Equipment,49
+38,3811,3811,LabEq,Measuring and Control Equipment,49
+38,3820,3820,LabEq,Measuring and Control Equipment,49
+38,3821,3821,LabEq,Measuring and Control Equipment,49
+38,3822,3822,LabEq,Measuring and Control Equipment,49
+38,3823,3823,LabEq,Measuring and Control Equipment,49
+38,3824,3824,LabEq,Measuring and Control Equipment,49
+38,3825,3825,LabEq,Measuring and Control Equipment,49
+38,3826,3826,LabEq,Measuring and Control Equipment,49
+38,3827,3827,LabEq,Measuring and Control Equipment,49
+38,3829,3829,LabEq,Measuring and Control Equipment,49
+38,3830,3839,LabEq,Measuring and Control Equipment,49
+39,2520,2549,Paper,Business Supplies,49
+39,2600,2639,Paper,Business Supplies,49
+39,2670,2699,Paper,Business Supplies,49
+39,2760,2761,Paper,Business Supplies,49
+39,3950,3955,Paper,Business Supplies,49
+40,2440,2449,Boxes,Shipping Containers,49
+40,2640,2659,Boxes,Shipping Containers,49
+40,3220,3221,Boxes,Shipping Containers,49
+40,3410,3412,Boxes,Shipping Containers,49
+41,4000,4013,Trans,Transportation,49
+41,4040,4049,Trans,Transportation,49
+41,4100,4100,Trans,Transportation,49
+41,4110,4119,Trans,Transportation,49
+41,4120,4121,Trans,Transportation,49
+41,4130,4131,Trans,Transportation,49
+41,4140,4142,Trans,Transportation,49
+41,4150,4151,Trans,Transportation,49
+41,4170,4173,Trans,Transportation,49
+41,4190,4199,Trans,Transportation,49
+41,4200,4200,Trans,Transportation,49
+41,4210,4219,Trans,Transportation,49
+41,4230,4231,Trans,Transportation,49
+41,4240,4249,Trans,Transportation,49
+41,4400,4499,Trans,Transportation,49
+41,4500,4599,Trans,Transportation,49
+41,4600,4699,Trans,Transportation,49
+41,4700,4700,Trans,Transportation,49
+41,4710,4712,Trans,Transportation,49
+41,4720,4729,Trans,Transportation,49
+41,4730,4739,Trans,Transportation,49
+41,4740,4749,Trans,Transportation,49
+41,4780,4780,Trans,Transportation,49
+41,4782,4782,Trans,Transportation,49
+41,4783,4783,Trans,Transportation,49
+41,4784,4784,Trans,Transportation,49
+41,4785,4785,Trans,Transportation,49
+41,4789,4789,Trans,Transportation,49
+42,5000,5000,Whlsl,Wholesale,49
+42,5010,5015,Whlsl,Wholesale,49
+42,5020,5023,Whlsl,Wholesale,49
+42,5030,5039,Whlsl,Wholesale,49
+42,5040,5042,Whlsl,Wholesale,49
+42,5043,5043,Whlsl,Wholesale,49
+42,5044,5044,Whlsl,Wholesale,49
+42,5045,5045,Whlsl,Wholesale,49
+42,5046,5046,Whlsl,Wholesale,49
+42,5047,5047,Whlsl,Wholesale,49
+42,5048,5048,Whlsl,Wholesale,49
+42,5049,5049,Whlsl,Wholesale,49
+42,5050,5059,Whlsl,Wholesale,49
+42,5060,5060,Whlsl,Wholesale,49
+42,5063,5063,Whlsl,Wholesale,49
+42,5064,5064,Whlsl,Wholesale,49
+42,5065,5065,Whlsl,Wholesale,49
+42,5070,5078,Whlsl,Wholesale,49
+42,5080,5080,Whlsl,Wholesale,49
+42,5081,5081,Whlsl,Wholesale,49
+42,5082,5082,Whlsl,Wholesale,49
+42,5083,5083,Whlsl,Wholesale,49
+42,5084,5084,Whlsl,Wholesale,49
+42,5085,5085,Whlsl,Wholesale,49
+42,5086,5087,Whlsl,Wholesale,49
+42,5088,5088,Whlsl,Wholesale,49
+42,5090,5090,Whlsl,Wholesale,49
+42,5091,5092,Whlsl,Wholesale,49
+42,5093,5093,Whlsl,Wholesale,49
+42,5094,5094,Whlsl,Wholesale,49
+42,5099,5099,Whlsl,Wholesale,49
+42,5100,5100,Whlsl,Wholesale,49
+42,5110,5113,Whlsl,Wholesale,49
+42,5120,5122,Whlsl,Wholesale,49
+42,5130,5139,Whlsl,Wholesale,49
+42,5140,5149,Whlsl,Wholesale,49
+42,5150,5159,Whlsl,Wholesale,49
+42,5160,5169,Whlsl,Wholesale,49
+42,5170,5172,Whlsl,Wholesale,49
+42,5180,5182,Whlsl,Wholesale,49
+42,5190,5199,Whlsl,Wholesale,49
+43,5200,5200,Rtail,Retail,49
+43,5210,5219,Rtail,Retail,49
+43,5220,5229,Rtail,Retail,49
+43,5230,5231,Rtail,Retail,49
+43,5250,5251,Rtail,Retail,49
+43,5260,5261,Rtail,Retail,49
+43,5270,5271,Rtail,Retail,49
+43,5300,5300,Rtail,Retail,49
+43,5310,5311,Rtail,Retail,49
+43,5320,5320,Rtail,Retail,49
+43,5330,5331,Rtail,Retail,49
+43,5334,5334,Rtail,Retail,49
+43,5340,5349,Rtail,Retail,49
+43,5390,5399,Rtail,Retail,49
+43,5400,5400,Rtail,Retail,49
+43,5410,5411,Rtail,Retail,49
+43,5412,5412,Rtail,Retail,49
+43,5420,5429,Rtail,Retail,49
+43,5430,5439,Rtail,Retail,49
+43,5440,5449,Rtail,Retail,49
+43,5450,5459,Rtail,Retail,49
+43,5460,5469,Rtail,Retail,49
+43,5490,5499,Rtail,Retail,49
+43,5500,5500,Rtail,Retail,49
+43,5510,5529,Rtail,Retail,49
+43,5530,5539,Rtail,Retail,49
+43,5540,5549,Rtail,Retail,49
+43,5550,5559,Rtail,Retail,49
+43,5560,5569,Rtail,Retail,49
+43,5570,5579,Rtail,Retail,49
+43,5590,5599,Rtail,Retail,49
+43,5600,5699,Rtail,Retail,49
+43,5700,5700,Rtail,Retail,49
+43,5710,5719,Rtail,Retail,49
+43,5720,5722,Rtail,Retail,49
+43,5730,5733,Rtail,Retail,49
+43,5734,5734,Rtail,Retail,49
+43,5735,5735,Rtail,Retail,49
+43,5736,5736,Rtail,Retail,49
+43,5750,5799,Rtail,Retail,49
+43,5900,5900,Rtail,Retail,49
+43,5910,5912,Rtail,Retail,49
+43,5920,5929,Rtail,Retail,49
+43,5930,5932,Rtail,Retail,49
+43,5940,5940,Rtail,Retail,49
+43,5941,5941,Rtail,Retail,49
+43,5942,5942,Rtail,Retail,49
+43,5943,5943,Rtail,Retail,49
+43,5944,5944,Rtail,Retail,49
+43,5945,5945,Rtail,Retail,49
+43,5946,5946,Rtail,Retail,49
+43,5947,5947,Rtail,Retail,49
+43,5948,5948,Rtail,Retail,49
+43,5949,5949,Rtail,Retail,49
+43,5950,5959,Rtail,Retail,49
+43,5960,5969,Rtail,Retail,49
+43,5970,5979,Rtail,Retail,49
+43,5980,5989,Rtail,Retail,49
+43,5990,5990,Rtail,Retail,49
+43,5992,5992,Rtail,Retail,49
+43,5993,5993,Rtail,Retail,49
+43,5994,5994,Rtail,Retail,49
+43,5995,5995,Rtail,Retail,49
+43,5999,5999,Rtail,Retail,49
+44,5800,5819,Meals,"Restaurants, Hotels, Motels",49
+44,5820,5829,Meals,"Restaurants, Hotels, Motels",49
+44,5890,5899,Meals,"Restaurants, Hotels, Motels",49
+44,7000,7000,Meals,"Restaurants, Hotels, Motels",49
+44,7010,7019,Meals,"Restaurants, Hotels, Motels",49
+44,7040,7049,Meals,"Restaurants, Hotels, Motels",49
+44,7213,7213,Meals,"Restaurants, Hotels, Motels",49
+45,6000,6000,Banks,Banking,49
+45,6010,6019,Banks,Banking,49
+45,6020,6020,Banks,Banking,49
+45,6021,6021,Banks,Banking,49
+45,6022,6022,Banks,Banking,49
+45,6023,6024,Banks,Banking,49
+45,6025,6025,Banks,Banking,49
+45,6026,6026,Banks,Banking,49
+45,6027,6027,Banks,Banking,49
+45,6028,6029,Banks,Banking,49
+45,6030,6036,Banks,Banking,49
+45,6040,6059,Banks,Banking,49
+45,6060,6062,Banks,Banking,49
+45,6080,6082,Banks,Banking,49
+45,6090,6099,Banks,Banking,49
+45,6100,6100,Banks,Banking,49
+45,6110,6111,Banks,Banking,49
+45,6112,6113,Banks,Banking,49
+45,6120,6129,Banks,Banking,49
+45,6130,6139,Banks,Banking,49
+45,6140,6149,Banks,Banking,49
+45,6150,6159,Banks,Banking,49
+45,6160,6169,Banks,Banking,49
+45,6170,6179,Banks,Banking,49
+45,6190,6199,Banks,Banking,49
+46,6300,6300,Insur,Insurance,49
+46,6310,6319,Insur,Insurance,49
+46,6320,6329,Insur,Insurance,49
+46,6330,6331,Insur,Insurance,49
+46,6350,6351,Insur,Insurance,49
+46,6360,6361,Insur,Insurance,49
+46,6370,6379,Insur,Insurance,49
+46,6390,6399,Insur,Insurance,49
+46,6400,6411,Insur,Insurance,49
+47,6500,6500,RlEst,Real Estate,49
+47,6510,6510,RlEst,Real Estate,49
+47,6512,6512,RlEst,Real Estate,49
+47,6513,6513,RlEst,Real Estate,49
+47,6514,6514,RlEst,Real Estate,49
+47,6515,6515,RlEst,Real Estate,49
+47,6517,6519,RlEst,Real Estate,49
+47,6520,6529,RlEst,Real Estate,49
+47,6530,6531,RlEst,Real Estate,49
+47,6532,6532,RlEst,Real Estate,49
+47,6540,6541,RlEst,Real Estate,49
+47,6550,6553,RlEst,Real Estate,49
+47,6590,6599,RlEst,Real Estate,49
+47,6610,6611,RlEst,Real Estate,49
+48,6200,6299,Fin,Trading,49
+48,6700,6700,Fin,Trading,49
+48,6710,6719,Fin,Trading,49
+48,6720,6722,Fin,Trading,49
+48,6723,6723,Fin,Trading,49
+48,6724,6724,Fin,Trading,49
+48,6725,6725,Fin,Trading,49
+48,6726,6726,Fin,Trading,49
+48,6730,6733,Fin,Trading,49
+48,6740,6779,Fin,Trading,49
+48,6790,6791,Fin,Trading,49
+48,6792,6792,Fin,Trading,49
+48,6793,6793,Fin,Trading,49
+48,6794,6794,Fin,Trading,49
+48,6795,6795,Fin,Trading,49
+48,6798,6798,Fin,Trading,49
+48,6799,6799,Fin,Trading,49
+49,4950,4959,Other,Almost Nothing,49
+49,4960,4961,Other,Almost Nothing,49
+49,4970,4971,Other,Almost Nothing,49
+49,4990,4991,Other,Almost Nothing,49
