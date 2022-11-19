@@ -14,5 +14,6 @@ This file is bridge file between SIC industry Categories to Fama-French Industry
 ***
 
 Data: download [here](https://raw.githubusercontent.com/sureshlazaruspaul/fama-french-ind-class/main/ffind.csv)
+
 R code that bridges SIC to FF: download [here](https://raw.githubusercontent.com/sureshlazaruspaul/fama-french-ind-class/main/ffind.R)
 
